@@ -23,7 +23,8 @@ be good prep work to tackle before you start the above exercises:
 
 * [Command Line Crash Course](http://cli.learncodethehardway.org/book/).
   Please go through this book if you don't have much experience with the
-  command line.
+  command line. 1,2, 4-7, 10 - 16 are the essential chapters. 17-19 are
+  optional chapters.
 
 * Chris Pine's [Learn to Program](http://pine.fm/LearnToProgram/). This is a
   great intro to programming and Ruby.
