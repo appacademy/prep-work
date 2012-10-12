@@ -16,7 +16,7 @@ answer in though; start using gist from the beginning and edit your gist as
 you progress; all your revisions will be tracked and we'll be able to see your
 work history!
 
-Here are resources that we'd like you to be comfortable with, and will
+Here are the resources that we'd like you to be comfortable with, and will
 be good prep work to tackle before you start the above exercises:
 
 ## Intro
@@ -60,5 +60,5 @@ be good prep work to tackle before you start the above exercises:
 * Eloquent Ruby (optional). Write idiomatic Ruby.
 
 __The most important thing we can tell you: You learn how to code by doing and
-making. Reading programming or watching screencasts will help, but doing
+making. Reading programming books or watching screencasts will help, but doing
 exercises and building small projects is by far the best way to learn.__
