@@ -33,9 +33,9 @@ trial which never expires, so it's almost free that way.
 A lot of Ruby development is done at the command line. Mac users can
 use Terminal.app.
 
-Windows users can run `cmd`, which launches the Windows command
-line. Run it by pressing `Windows Key-R` (launches "run program") and
-typing `cmd` into the box.
+Windows users can run `cmd`, which is the Windows command line. Run it
+by pressing `Windows Key-R` (launches "run program") and typing `cmd`
+into the box.
 
 ## Required reading
 
@@ -43,17 +43,15 @@ We have some required introductory readings. Make sure to read these;
 those that have exercises, do them.
 
 * Peter Cooper's [Beginning Ruby](http://beginningruby.org/)
+ * Your primary resource for learning Ruby.
+ * Not free, but worth every penny; required reading.
  * Ch 1-4
  * Ch 6 (skip ch5)
  * Just RubyGems from ch7
  * Just Testing from ch8
- * 12, Appendix B. Light on exercises, but more in depth expositions
-   than the average Ruby primer.  After finishing the assigned
-   sections from this book, you should be ready to start the Test
-   First Ruby + EventManager exercises above.
 * JumpstartLabs'
   [Ruby in 100 Minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html).
-  Another intro to Ruby with a lot of good intro exercises.
+ * Another intro to Ruby with a lot of good intro exercises.
 * Chris Pine's [Learn to Program](http://pine.fm/LearnToProgram/)
  * [ch10](http://pine.fm/LearnToProgram/?Chapter=10)
  * The other chapters mostly cover material from Beginning Ruby,
@@ -72,28 +70,40 @@ them into us, but you will need the practice :-)
    concepts through a few different resources will help solidify your
    knowledge.
 
-## Resource
+## Need Help?
 
-Ruby has lots of methods baked into the basic classes to help you! The
-two best ways to find them are Googling (many of the best answers are
-on [stackoverflow.com](http://stackoverflow.com)), or by looking at
-the Ruby doumentation. Here's some of the most useful Ruby docs:
+The first place to start is Google; a huge part of being a good
+developer is learning how to find answers to things you don't
+know. Many of the best results come from
+[stackoverflow.com](http://stackoverflow.com). If you don't find what
+you need, start a thread there yourself!
 
+### Common methods and classes
+
+The built-in, basic datatypes (Array, String, Hash) contain many
+useful methods that make your life easier. There's a lot of power in
+them. The Ruby documentation lists out all these methods:
 
 *  [Array](http://www.ruby-doc.org/core-1.9.3/Array.html)
 *  [String](http://www.ruby-doc.org/core-1.9.3/String.html)
-*  [Enumerable](http://www.ruby-doc.org/core-1.9.3/Enumerable.html)
 *  [Hash](http://www.ruby-doc.org/core-1.9.3/Hash.html))
+*  [Enumerable](http://www.ruby-doc.org/core-1.9.3/Enumerable.html)
+ * Array, and Hash both _mixin_ Enumerable, which means you can use
+   Enumerable methods when working with an Array or Hash. Enumerable
+   contains many useful methods.
 
 With just these few pages, you will be able to write a lot of powerful
-logic/code. Try to be as familiar as you can with those (i.e., Array,
-String, Enumerable + Hash).
+logic/code. Try to be as familiar as you can with these.
+
+* Beginning Ruby, Appendix B.
+
+Another reference of commonly used methods and classes.
 
 ## Assignment
 
 Please work on and submit these exercises before you arrive
-(submission details are below). These are required; we want you to be
-ready for class when it starts.
+(submission details are below). **These are required**; we want you to
+be ready for class when it starts.
 
 ### Test-First Ruby (Alex Chaffee)
 
@@ -123,9 +133,13 @@ When you've finished building the Event Manager, send it to us
 
 ## Submitting Your Work
 
-Post your work to a Github [gist](https://gist.github.com/) (make one gist per
-file) so that we can see what you've done! Make sure to pick the language
-(i.e., Ruby) so that you get syntax highlighting.
+When done, post your work to a Github [gist](https://gist.github.com/)
+(make one gist per file) so that we can see what you've done! Make
+sure to pick the language (i.e., Ruby) so that you get syntax
+highlighting.
+
+When you're done, send us an email with a link to your Github. We'll
+check out your work!
 
 ## Optional supplemental readings
 
