@@ -8,6 +8,10 @@ Prep work is very important so that everyone is prepared for class and
 no one starts out behind. Completing and submitting the preparatory
 assignment is **required** before class starts.
 
+__The most important thing we can tell you: You learn how to code by doing and
+making. Reading programming books or watching screencasts will help, but doing
+exercises and building small projects is by far the best way to learn.__
+
 ## Setup
 
 ### Ruby
@@ -42,15 +46,16 @@ these exercises, but you will need the practice :-)
   interactive introduction to Ruby. Going over the same intro Ruby
   concepts through a few different resources will help solidify your
   knowledge.
-  
-* [Command Line Crash Course](http://cli.learncodethehardway.org/book/). Please
-  go through this book if you don't have much experience with the
-  command line. 1,2, 4-7, 10 - 16 are the essential chapters. 17 and
-  beyond are optional chapters.
+   
+* Peter Cooper's [Beginning Ruby](http://beginningruby.org/) Ch 1-9,
+  12, 15 (optional), Appendix B. Light on exercises, but more in depth
+  expositions than the average Ruby primer.  After finishing the
+  assigned sections from this book, you should be ready to start the
+  Test First Ruby + EventManager exercises above.
 
 ## Assignment
 
-Please work on and submit these exercises before your arrive
+Please work on and submit these exercises before you arrive
 (submission details are below).
 
 ### Test-First Ruby (Alex Chaffee)
@@ -60,9 +65,10 @@ to test your Ruby knowledge. It gives you interactive feedback, so you
 can find and correct mistakes. It will also give you practice running
 rspec tests.
 
-To begin work, go to the github page and click to download the ZIP
-file. Extract the ZIP and open the contained index.html. This will
-contain further instructions for how to proceed.
+The required exercises are 0 - 12 and 14. To begin work, go to the github
+page and click to download the ZIP file. Extract the ZIP and open the
+contained index.html. This will contain further instructions as to how to
+proceed.
 
 When you're finished with Test First Ruby, send it to us (instructions
 below).
@@ -86,16 +92,14 @@ file) so that we can see what you've done! Make sure to pick the language
 
 ## Optional supplemental readings
 
-We have additional materials to recommend if you want to get a leg up
-on Ruby. Some of these 
+Below are additional materials that will help you get a leg up on Ruby.
 
 ### Introductory
 
-* Peter Cooper's [Beginning Ruby](http://beginningruby.org/) Ch 1-9,
-  12, 15 (optional), Appendix B. Light on exercises, but more in depth
-  expositions than the average Ruby primer.  After finishing the
-  assigned sections from this book, you should be ready to start the
-  Test First Ruby + EventManager exercises above.
+* [Command Line Crash Course](http://cli.learncodethehardway.org/book/).
+  Please go through this book if you don't have much experience with the
+  command line. 1, 2, 4 - 7, 10 - 16 are the essential chapters. 17 - 19 are
+  optional.
 
 ### Intermediate
 
@@ -110,15 +114,3 @@ on Ruby. Some of these
   aforementioned pages, you will be able to write a lot of powerful
   logic/code. Try to be as familiar as you can with those (i.e.,
   Array, String, Enumerable + Hash).
-
-## Advanced
-
-* Well Grounded Rubyist Ch 1-6 (optional reference). A deep dive into Ruby.
-  More than is needed usually, and sometimes bogged down in an unhealthy
-  fascination with obscure syntax, but provides depth if desired.
-
-* Eloquent Ruby (optional). Write idiomatic Ruby.
-
-__The most important thing we can tell you: You learn how to code by doing and
-making. Reading programming books or watching screencasts will help, but doing
-exercises and building small projects is by far the best way to learn.__
