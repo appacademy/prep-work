@@ -65,18 +65,17 @@ them into us, but you will need the practice :-)
 * [Learn to Program](http://pine.fm/LearnToProgram/)
  * ch1-ch10
  * Each chapter has a few exercises at the end.
+ * If you've read Beginning Ruby, you'll be well prepared for these.
 * Ruby Monk's [Ruby Primer](http://rubymonk.com/learning/books/1).
- * An interactive introduction to Ruby. Going over the same intro Ruby
-   concepts through a few different resources will help solidify your
-   knowledge.
+ * An interactive introduction to Ruby.
 
 ## Need Help?
 
 The first place to start is Google; a huge part of being a good
 developer is learning how to find answers to things you don't
 know. Many of the best results come from
-[stackoverflow.com](http://stackoverflow.com). If you don't find what
-you need, start a thread there yourself!
+[Stackoverflow](http://stackoverflow.com). If you don't find what you
+need, start a thread there yourself!
 
 ### Common methods and classes
 
@@ -86,11 +85,11 @@ them. The Ruby documentation lists out all these methods:
 
 *  [Array](http://www.ruby-doc.org/core-1.9.3/Array.html)
 *  [String](http://www.ruby-doc.org/core-1.9.3/String.html)
-*  [Hash](http://www.ruby-doc.org/core-1.9.3/Hash.html))
+*  [Hash](http://www.ruby-doc.org/core-1.9.3/Hash.html)
 *  [Enumerable](http://www.ruby-doc.org/core-1.9.3/Enumerable.html)
  * Array, and Hash both _mixin_ Enumerable, which means you can use
-   Enumerable methods when working with an Array or Hash. Enumerable
-   contains many useful methods.
+   Enumerable methods when working with either an Array or
+   Hash. Enumerable contains many useful methods.
 
 With just these few pages, you will be able to write a lot of powerful
 logic/code. Try to be as familiar as you can with these.
@@ -112,7 +111,7 @@ to test your Ruby knowledge. It gives you interactive feedback, so you
 can find and correct mistakes. It will also give you practice running
 rspec tests.
 
-The required exercises are 0 - 12 and 14. To begin work, go to the github
+The required exercises are 0-12 and 14. To begin work, go to the github
 page and click to download the ZIP file. Extract the ZIP and open the
 contained index.html. This will contain further instructions as to how to
 proceed.
@@ -157,4 +156,4 @@ Below are additional materials that will help you get a leg up on Ruby.
 * Peter Cooper's Beginning Ruby
  * ch12: build a larger project in Ruby
 * [Ruby Koans](http://www.rubykoans.com/). A good introduction to
-  [TDD](en.wikipedia.org/wiki/Test-driven_development) & Ruby.
+  [TDD](http://en.wikipedia.org/wiki/Test-driven_development) & Ruby.
