@@ -28,6 +28,15 @@ same text editor. Please use [Sublime](http://www.sublimetext.com/),
 since that it what we will have installed in class. Sublime has a free
 trial which never expires, so it's almost free that way.
 
+### Terminal
+
+A lot of Ruby development is done at the command line. Mac users can
+use Terminal.app.
+
+Windows users can run `cmd`, which launches the Windows command
+line. Run it by pressing `Windows Key-R` (launches "run program") and
+typing `cmd` into the box.
+
 ## Required reading
 
 We have some required introductory readings. Make sure to read these;
