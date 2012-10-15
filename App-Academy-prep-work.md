@@ -1,11 +1,11 @@
-# App Academy Prepwork
+# App Academy Prep Work
 
 Hope you're all well! We've got some Ruby prep work that we'd like you
 to complete before the class starts so that you're up-to-speed and
 ready to hit the ground running!
 
-Prepwork is very important so that everyone is prepared for class and
-no one starts out behind. Completing and submitting the prepatory
+Prep work is very important so that everyone is prepared for class and
+no one starts out behind. Completing and submitting the preparatory
 assignment is **required** before class starts.
 
 ## Setup
@@ -22,7 +22,7 @@ You need a proper code editor; notepad or TextEdit won't cut
 it. Because we work in pairs, it's important that everyone use the
 same text editor. Please use [Sublime](http://www.sublimetext.com/),
 since that it what we will have installed in class. Sublime has a free
-trial which never expires, so you it's almost free that way.
+trial which never expires, so it's almost free that way.
 
 ## Required reading
 
