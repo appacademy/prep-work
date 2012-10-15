@@ -48,7 +48,7 @@ these exercises, but you will need the practice :-)
   knowledge.
    
 * Peter Cooper's [Beginning Ruby](http://beginningruby.org/) Ch 1-9,
-  12, 15 (optional), Appendix B. Light on exercises, but more in depth
+  12, Appendix B. Light on exercises, but more in depth
   expositions than the average Ruby primer.  After finishing the
   assigned sections from this book, you should be ready to start the
   Test First Ruby + EventManager exercises above.
