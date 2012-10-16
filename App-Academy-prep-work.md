@@ -47,8 +47,8 @@ those that have exercises, do them.
  * Not free, but worth every penny; required reading.
  * Ch 1-4
  * Ch 6 (skip ch5)
- * Just RubyGems from ch7
- * Just Testing from ch8
+ * Just RubyGems (pg. 168-175 in the second edition) from ch7
+ * Just Testing (pg. 192-196 in the second edition) from ch8
 * JumpstartLabs'
   [Ruby in 100 Minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html).
  * Another intro to Ruby with a lot of good intro exercises.
