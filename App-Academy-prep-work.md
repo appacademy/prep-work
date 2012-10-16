@@ -57,14 +57,14 @@ those that have exercises, do them.
  * The other chapters mostly cover material from Beginning Ruby,
    though they may be helpful.
 
-## Exercises
+## Required Exercises
 
 Practice makes perfect! Do these exercises. You don't have to turn
 them in to us, but you will need the practice :-)
 
 * [Learn to Program](http://pine.fm/LearnToProgram/)
  * ch1-ch10
- * Each chapter has a few exercises at the end.
+ * There are a few exercises at the end of each chapter under the heading, "A Few Things to Try"
  * If you've read Beginning Ruby, you'll be well prepared for these.
 * Ruby Monk's [Ruby Primer](http://rubymonk.com/learning/books/1).
  * An interactive introduction to Ruby.
