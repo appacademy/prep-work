@@ -77,6 +77,10 @@ know. Many of the best results come from
 [Stackoverflow](http://stackoverflow.com). If you don't find what you
 need, start a thread there yourself!
 
+A key part of learning programming is learning how to get unstuck. It's going
+to be hard going at first, but you're going to get much better at it with
+practice!
+
 ### Common methods and classes
 
 The built-in, basic datatypes (Array, String, Hash) contain many
