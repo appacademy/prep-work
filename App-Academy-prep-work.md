@@ -83,6 +83,12 @@ practice!
 
 ### Common methods and classes
 
+#### Peter Cooper's summary of useful methods and classes
+
+* Beginning Ruby, Appendix B.
+
+#### Ruby Docs
+
 The built-in, basic datatypes (Array, String, Hash) contain many
 useful methods that make your life easier. There's a lot of power in
 them. The Ruby documentation lists out all these methods:
@@ -97,10 +103,6 @@ them. The Ruby documentation lists out all these methods:
 
 With just these few pages, you will be able to write a lot of powerful
 logic/code. Try to be as familiar as you can with these.
-
-* Beginning Ruby, Appendix B.
-
-Another reference of commonly used methods and classes.
 
 ## Assignment
 
