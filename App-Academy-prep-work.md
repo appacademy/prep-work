@@ -155,7 +155,7 @@ Below are additional materials that will help you get a leg up on Ruby.
 
 * [Command Line Crash Course](http://cli.learncodethehardway.org/book/).
   Please go through this book if you don't have much experience with the
-  command line. 1, 2, 4 - 7, 10 - 16 are the essential chapters. 17 - 19 are
+  command line. 1, 2, 4-7, 10-16 are the essential chapters. 17-19 are
   optional.
 
 ### Intermediate
