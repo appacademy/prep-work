@@ -60,7 +60,7 @@ those that have exercises, do them.
 ## Exercises
 
 Practice makes perfect! Do these exercises. You don't have to turn
-them into us, but you will need the practice :-)
+them in to us, but you will need the practice :-)
 
 * [Learn to Program](http://pine.fm/LearnToProgram/)
  * ch1-ch10
