@@ -147,6 +147,9 @@ highlighting.
 When you're done, send us an email with a link to your Github. We'll
 check out your work!
 
+**You must submit your work to us by 10 days before your cycle is
+  scheduled to begin.**
+
 ## Optional supplemental readings
 
 Below are additional materials that will help you get a leg up on Ruby.
