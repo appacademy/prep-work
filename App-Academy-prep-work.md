@@ -45,8 +45,8 @@ those that have exercises, do them.
 * Peter Cooper's [Beginning Ruby](http://beginningruby.org/)
  * Your primary resource for learning Ruby.
  * Not free, but worth every penny; required reading.
- * Ch 1-4
- * Ch 6 (skip ch5)
+ * ch1-4
+ * ch6 (skip ch5)
  * Just RubyGems (pg. 168-175 in the second edition) from ch7
  * Just Testing (pg. 192-196 in the second edition) from ch8
 * JumpstartLabs'
