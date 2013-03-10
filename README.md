@@ -141,8 +141,8 @@ When you've finished building the Event Manager, send it to us
 
 When done, please zip your Test First Ruby folder (complete with
 instructions, specs, and your solutions) and mail it to us at
-[contact@appacademy.io](mailto:contact@appacademy.io). Please also
-attach your Event Manager work.
+[admissions@appacademy.io](mailto:admissions@appacademy.io). Please
+also attach your Event Manager work.
 
 **You must submit your work to us by 10 days before your cycle is
   scheduled to begin.**
