@@ -24,9 +24,14 @@ Learn To Program ebook:
 
 You need a proper code editor; notepad or TextEdit won't cut
 it. Because we work in pairs, it's important that everyone use the
-same text editor. Please use [Sublime](http://www.sublimetext.com/),
-since that it what we will have installed in class. Sublime has a free
-trial which never expires, so it's almost free that way.
+same text editor. Please use [Textmate 2][textmate-github] (download
+[here][textmate-download]).
+
+Textmate is Mac only; Windows users can use [Sublime][sublime].
+
+[textmate-github]: https://github.com/textmate/textmate
+[textmate-download]: https://api.textmate.org/downloads/beta
+[sublime]: http://www.sublimetext.com/
 
 ### Terminal
 
