@@ -16,9 +16,10 @@ exercises and building small projects is by far the best way to learn.__
 
 ### Ruby
 
-Perhaps the most direct source on Ruby Setup is part of Chris Pine's
-Learn To Program ebook:
-[here](http://pine.fm/LearnToProgram/?Chapter=00).
+[About.com's Ruby installation page][about-ruby-install] has instructions on
+how to install Ruby for Mac, Windows and Linux.
+
+[about-ruby-install]: http://ruby.about.com/od/tutorials/a/installruby.htm
 
 ### Code Editor
 
@@ -49,7 +50,7 @@ those that have exercises, do them.
 
 * Peter Cooper's [Beginning Ruby](http://beginningruby.org/)
  * Your primary resource for learning Ruby.
- * Not free, but worth every penny; required reading.
+ * Required reading.
  * ch1-4
  * ch6 (skip ch5)
  * Just RubyGems (pg. 168-175 in the second edition) from ch7
@@ -57,22 +58,26 @@ those that have exercises, do them.
 * JumpstartLabs'
   [Ruby in 100 Minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html).
  * Another intro to Ruby with a lot of good intro exercises.
-* Chris Pine's [Learn to Program](http://pine.fm/LearnToProgram/)
+* Chris Pine's [Learn to Program][pine-amazon]
  * [ch10](http://pine.fm/LearnToProgram/?Chapter=10)
  * The other chapters mostly cover material from Beginning Ruby,
    though they may be helpful.
+
+[pine-amazon]: http://www.amazon.com/Program-Second-Edition-Facets-Series/dp/1934356360/ref=sr_1_1?ie=UTF8&qid=1363458523&sr=8-1&keywords=learn+to+program
 
 ## Required Exercises
 
 Practice makes perfect! Do these exercises. You don't have to turn
 them in to us, but you will need the practice :-)
 
-* [Learn to Program](http://pine.fm/LearnToProgram/)
+* [Learn to Program][pine-amazon]
  * ch1-ch10
  * There are a few exercises at the end of each chapter under the heading, "A Few Things to Try"
  * If you've read Beginning Ruby, you'll be well prepared for these.
 * Ruby Monk's [Ruby Primer](http://rubymonk.com/learning/books/1).
  * An interactive introduction to Ruby.
+
+[pine-amazon]: http://www.amazon.com/Program-Second-Edition-Facets-Series/dp/1934356360/ref=sr_1_1?ie=UTF8&qid=1363458523&sr=8-1&keywords=learn+to+program
 
 ## Need Help?
 
