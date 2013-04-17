@@ -59,7 +59,7 @@ those that have exercises, do them.
   [Ruby in 100 Minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html).
  * Another intro to Ruby with a lot of good intro exercises.
 * Chris Pine's [Learn to Program][pine-amazon]
- * [ch10](http://pine.fm/LearnToProgram/?Chapter=10)
+ * ch10
  * The other chapters mostly cover material from Beginning Ruby,
    though they may be helpful.
 
