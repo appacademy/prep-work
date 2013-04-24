@@ -1,19 +1,29 @@
 require '00_nearest_larger'
 require 'rspec'
 
-describe "#nearest_larger" do
-# Write a function nearest_larger which takes an array and an index.  It returns the index of the nearest number in that array which is larger than the number at the inputted index.  Choose the earlier (left-most) number if there is a tie.  
-# 1/5
+# Write a function, `nearest_larger(arr, i)` which takes an array and an
+# index.  The function should return another index, `j`: this should
+# satisfy:
+#
+# (a) `arr[i] < arr[j]`, AND
+# (b) there is no `j2` closer to `i` than `j` where `arr[i] < arr[j]`.
+#
+# In case of ties (see example beow), choose the earliest (left-most)
+# of the two indices. If no number in `arr` is largr than `arr[i]`,
+# return `nil`.
+#
+# Difficulty: 2/5
 
-  it "should handle a simple case to the right" do
+describe "#nearest_larger" do
+  it "handles a simple case to the right" do
     nearest_larger([2,3,4,8], 2).should == 3
   end
 
-  it "should handle a simple case to the left" do
+  it "handles a simple case to the left" do
     nearest_larger([2,8,4,3], 2).should == 1
   end
 
-  it "should treat any two larger numbers like a tie" do
+  it "treats any two larger numbers like a tie" do
     nearest_larger([2,6,4,8], 2).should == 1
   end
 
@@ -24,5 +34,4 @@ describe "#nearest_larger" do
   it "should return nil if no larger number is found" do
     nearest_larger( [2, 6, 4, 8], 3).should == nil
   end
-
 end
