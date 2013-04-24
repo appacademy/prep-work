@@ -1,10 +1,17 @@
 require '01_no_repeats'
 require 'rspec'
 
-describe "#no_repeats" do
-# Write a function no_repeats which takes a range of years and outputs those years which do not have any repeated digits
-# 2/5
+# Write a function, `no_repeats(year_start, year_end)`, which takes a
+# range of years and outputs those years which do not have any
+# repeated digits.
+#
+# You should probably write a helper function, `no_repeat(year)` which
+# returns true/false if a singe year doesn't have a repeat.
+#
+# Difficulty: 1/5
 
+
+describe "#no_repeats" do
   it "should return a no repeat year" do
     no_repeats(1234, 1234).should == [1234]
   end
@@ -14,7 +21,14 @@ describe "#no_repeats" do
   end
 
   it "should return only those years that have no repeated digits" do
-    no_repeats(1980, 1987).should == [1980, 1982, 1983, 1984, 1985, 1986, 1987]
+    no_repeats(1980, 1987).should == [
+      1980,
+      1982,
+      1983,
+      1984,
+      1985,
+      1986,
+      1987
+    ]
   end
-
 end
