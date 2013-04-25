@@ -8,6 +8,14 @@ be ready for class when it starts.
 
 [readings]: ./readings.md
 
+## Due-dates
+
+* 2013-06-17 (NY): due 2013-05-27.
+* 2013-07-15 (SF): due 2013-06-24.
+* 2013-08-19 (NY): due 2013-07-29.
+* 2013-09-16 (SF): due 2013-08-26.
+* 2013-10-21 (NY): due 2013-09-30.
+
 ## Test-First Ruby (Alex Chaffee)
 
 [Test-First Ruby][test-first-ruby] is a great way to test your Ruby
