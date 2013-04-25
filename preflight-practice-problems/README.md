@@ -49,6 +49,23 @@ does very poorly, we will probably want to talk with them about
 whether they are prepared for the class. We don't want people to start
 out already behind.
 
+## Practice problem instructions
+
+The instructions for the practice problems are written inside the spec
+files (in the `spec` directory); check those. You can run the specs
+for an individual problem like so:
+
+    rake spec spec/00_nearest_larger_spec.rb
+
+You can write your code in the corresponding file in `lib` (e.g.,
+`lib/00_nearest_larger.rb`).
+
+Make sure to look at the results it turns back; look at which tests
+fail and then start to figure out why.
+
+My advice is to solve them all once, then put your solutions away and
+solve them all again. **Practice until you are fluent!**
+
 ## Assessment 00 schedule
 
 On **Monday, April 29**, we'll open the window for taking the
