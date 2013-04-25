@@ -1,8 +1,12 @@
 # Required homework
 
+First, do the [required readings][readings].
+
 Please work on and submit these exercises before you arrive
 (submission details are below). **These are required**; we want you to
 be ready for class when it starts.
+
+[readings]: ./readings.md
 
 ## Test-First Ruby (Alex Chaffee)
 
