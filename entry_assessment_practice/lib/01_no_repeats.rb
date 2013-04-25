@@ -1,7 +1,7 @@
 def no_repeats(year_start, year_end)
   no_repeats = []
   (year_start..year_end).each do |yr|
-    no_repeats << yr if no_repeat(yr)
+    no_repeats << yr if no_repeat?(yr)
   end
 
   no_repeats
