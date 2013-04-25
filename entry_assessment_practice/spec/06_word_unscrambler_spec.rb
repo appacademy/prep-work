@@ -12,23 +12,24 @@ require '06_word_unscrambler'
 # Difficulty: 3/5
 
 describe "#word_unscrambler" do
-  it "should handle a simple word" do
+  it "handles a simple word" do
     word_unscrambler("cat", ["tac"]).should == ["tac"]
   end
 
-  it "should not inappropriately choose a word" do
-    word_unscrambler("cat", ["tom"]).should_not == ["tom"]
+  it "does not inappropriately choose a word" do
+    word_unscrambler("cat", ["tom"]).should == []
   end
 
-  it "should handle a simple word from a larger dictionary" do
+  it "handles a simple word from a larger dictionary" do
     word_unscrambler("cat", ["tic", "toc", "tac", "toe"])
   end
 
-  it "should only handle words of the correct length" do
+  it "only handles words of the correct length" do
     word_unscrambler("cat", ["scatter", "tac", "ca"] ).should == ["tac"]
   end
 
-  it "should handle multiple successful cases" do
-    word_unscrambler("turn", ["numb", "turn", "runt", "nurt"]).should == ["turn", "runt", "nurt"]
+  it "handles multiple successful cases" do
+    word_unscrambler("turn", ["numb", "turn", "runt", "nurt"])
+      .should == ["turn", "runt", "nurt"]
   end
 end
