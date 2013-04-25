@@ -19,8 +19,12 @@ much as you can **before** the course to maximize what you learn
 * **[Required readings][readings]**
 * [Optional reading exercises][exercises]
 * **[Required homework][homework]**
+    * **Your homework is due 3 weeks before your cycle is scheduled to
+      begin.**
 * [Extra resources and documents][resources]
 * **[Assessment00 practice problems][practice-problems]**
+    * **We will mail you assessment00 2 weeks before your cycle
+      begins.**
 
 [setup]: ./setup.md
 [readings]: ./readings.md
