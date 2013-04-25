@@ -15,6 +15,7 @@ accepted**. Don't wait until the end to start; you need to practice as
 much as you can **before** the course to maximize what you learn
 **in** the course.
 
+* **[Signup for the mailing list!][mailing-signup]**
 * [Setup Ruby][setup]
 * **[Required readings][readings]**
 * [Optional reading exercises][exercises]
@@ -26,6 +27,7 @@ much as you can **before** the course to maximize what you learn
     * **We will mail you assessment00 2 weeks before your cycle
       begins.**
 
+[mailing-signup]: ./mailing-signup.md
 [setup]: ./setup.md
 [readings]: ./readings.md
 [exercises]: ./exercises.md
