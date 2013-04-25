@@ -17,7 +17,7 @@ describe "#ordered_vowel_words" do
   end
 
   it "does not return a word that is not in order" do
-    ordered_vowel_words("complicated").should_not == "complicated"
+    ordered_vowel_words("complicated").should == ""
   end
 
   it "handle double vowels" do
