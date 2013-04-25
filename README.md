@@ -31,4 +31,4 @@ much as you can **before** the course to maximize what you learn
 [exercises]: ./exercises.md
 [homework]: ./homework.md
 [resources]: ./resources.md
-[practice-problems]: ./preflight-practice-problems/README.md
+[practice-problems]: ./assessment00-practice-problems/README.md
