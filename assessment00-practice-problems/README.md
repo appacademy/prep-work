@@ -37,6 +37,9 @@ fail and then start to figure out why.
 My advice is to solve them all once, then put your solutions away and
 solve them all again. **Practice until you are fluent!**
 
+**I've included solutions**, but please don't look at those until you
+finish a problem.
+
 ## Assessment00 Schedule
 
 On **Monday, April 29**, we'll open the window for taking the
