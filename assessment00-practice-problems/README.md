@@ -13,6 +13,11 @@ practice problems (and solutions) for you to study**. The practice
 problems are a little harder than those on the assessment, because we
 want you to over- rather than under-prepare :-)
 
+**The practice problems are part of the prepwork github, which you can
+[download in ZIP format here][repo-zip].**
+
+[repo-zip]: https://github.com/appacademy/prep-work/archive/master.zip
+
 ## Practice Problem Instructions
 
 The instructions for the practice problems are written inside the spec
