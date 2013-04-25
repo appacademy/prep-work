@@ -22,6 +22,7 @@ describe "#word_unscrambler" do
 
   it "handles a simple word from a larger dictionary" do
     word_unscrambler("cat", ["tic", "toc", "tac", "toe"])
+      .should == ["tac"]
   end
 
   it "only handles words of the correct length" do
