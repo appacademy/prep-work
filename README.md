@@ -2,11 +2,19 @@
 
 ## Coding Test I
 
-* [Setup Ruby][setup]
+* [Setup Ruby][setup] (optional)
+* [Codecademy Ruby Track][codecademy-ruby]
+    * Great for beginners; the first seven sections -- through
+      "Refactoring" -- will be great prep.
+* [Ruby Monk][ruby-monk]
+    * Read up to and including "Introduction To Strings"; "Classes and
+      OO Programming" isn't important.
 * [Basic Ruby Concepts][basic-concepts]
 * [Example Problems][example-problems]
 
 [setup]: ./coding-test-1/setup.md
+[codecademy-ruby]: http://www.codecademy.com/tracks/ruby
+[ruby-monk]: http://rubymonk.com
 [basic-concepts]: ./coding-test-1/basic-concepts.md
 [example-problems]: ./coding-test-1/example-problems.md
 
