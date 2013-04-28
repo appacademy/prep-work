@@ -20,7 +20,9 @@
 
 ## Coding Test II
 
-* **TODO**: Write me!
+* [Example practice problems][practice-problems]
+
+[practice-problems]: ./coding-test-2/practice-problems
 
 ## Pre-Course Prepwork
 
@@ -32,7 +34,7 @@
     * **Your homework is due 3 weeks before your cycle is scheduled to
       begin**. See inside for exact date.
 * [Extra resources and documents][extra-resources]
-* **[Assessment00 practice problems][practice-problems]**
+* [Assessment00][assessment00]
     * **We will mail you assessment00 2 weeks before your cycle
       begins.**
 
@@ -42,4 +44,3 @@
 [pre-course-exercises]: ./pre-course/optional-exercises.md
 [homework]: ./pre-course/homework.md
 [extra-resources]: ./pre-course/extra-resources.md
-[practice-problems]: ./assessment00-practice-problems/README.md
