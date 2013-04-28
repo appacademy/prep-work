@@ -3,55 +3,36 @@
 Yay! We're super excited that you'll be arriving soon! We have some
 practice work before you take your first assessment. Read on!
 
-## Assessment Practice Problems
+## Practice Problems
 
-To make sure people are prepared, **we give everyone the first, simple
-assessment before the course begins**. The first assessment is
-particularly important; it tells you whether you are adequately
-prepared for the course. To help you prepare, we've **included 10
-practice problems (and solutions) for you to study**. The practice
-problems are a little harder than those on the assessment, because we
-want you to over- rather than under-prepare :-)
+You may have already done the practice problems for the second coding
+challenge. If not, [check them out][practice-problems]. Assessment00
+will ask you to solve four such problems in the time period of an
+hour, so these are good practice. The practice problems are a little
+harder than those on the assessment, because we want you to over-
+rather than under-prepare :-)
 
-**The practice problems are part of the prepwork github, which you can
-[download in ZIP format here][repo-zip].**
-
-[repo-zip]: https://github.com/appacademy/prep-work/archive/master.zip
-
-## Practice Problem Instructions
-
-The instructions for the practice problems are written inside the spec
-files (in the `spec` directory); check those for instructions on what
-you are supposed to do. You can run the specs for an individual
-problem like so:
-
-    rake spec spec/00_nearest_larger_spec.rb
-
-You can write your code in the corresponding files in `lib` (e.g.,
-`lib/00_nearest_larger.rb`). I've filled them out with a blank method
-for you.
-
-Make sure to look at the results it turns back; look at which tests
-fail and then start to figure out why.
-
-My advice is to solve them all once, then put your solutions away and
-solve them all again. **Practice until you are fluent!**
-
-**I've included solutions**, but please don't look at those until you
-finish a problem.
+[practice-problems]: ../coding-test-2/practice-problems
 
 ## Assessment00 Schedule
 
 On **Monday, April 29**, we'll open the window for taking the
 assessment00. As with all our assessments, the exercise is timed
-(1hr). You'll have until **12:01 AM, Monday, May 06** to complete
-it. We want you to complete it a week before class begins so you have
-time to further prepare if necessary.
+(1hr). We'll send you a link to a website, you can request the
+assessment through the link, at which time we'll begin timing you.
 
-We'll send out a link where you may request and complete assessment
-online.
+You'll have until **12:01 AM, Monday, May 06** to request and complete
+the assessment. We want you to complete it a week before class begins
+so you have time to further prepare if necessary.
 
-The assessment mimics the practice problems: it consists of several
+**Please do not share or discuss the practice problems with other
+students until the course begins**. The assessment is for the
+students' benefit; it is designed to let incoming students know
+whether they are prepared for the class. In a sense, it cannot be
+cheated; underprepared students who don't get help early hurt their
+chances of completing the course successfuly.
+
+The assessment mimics the practice problems: it consists of four
 problems and their accompanying test specs. Your job it to get the
 specs to "go green" and pass (just like with the practice problems.
 
