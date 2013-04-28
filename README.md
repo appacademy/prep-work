@@ -31,7 +31,7 @@ invited to take the second coding challenge. This one will test your
 ability to apply basic programming principles to solve somewhat more
 complicated problems.
 
-* [Example practice problems][practice-problems]
+* **[Example practice problems][practice-problems]**
 
 [practice-problems]: ./coding-test-2/practice-problems
 
