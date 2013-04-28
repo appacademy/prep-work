@@ -1,4 +1,16 @@
-## Preflight Checklist
+# App Academy Prepwork
+
+## Coding Test I
+
+* [Setup Ruby][setup]
+* [Basic Ruby Concepts][basic-concepts]
+
+[setup]: ./coding-test-1/setup.md
+[basic-concepts]: ./coding-test-1/basic-concepts.md
+
+## Coding Test II
+
+## Pre-Course Prepwork
 
 Hey all! **We're super excited that soon you'll be coming to App
 Academy!**
@@ -16,7 +28,6 @@ much as you can **before** the course to maximize what you learn
 **in** the course.
 
 * **[Signup for the mailing list!][mailing-signup]**
-* [Setup Ruby][setup]
 * **[Required readings][readings]**
 * [Optional reading exercises][exercises]
 * **[Required homework][homework]**
@@ -28,7 +39,6 @@ much as you can **before** the course to maximize what you learn
       begins.**
 
 [mailing-signup]: ./mailing-signup.md
-[setup]: ./setup.md
 [readings]: ./readings.md
 [exercises]: ./exercises.md
 [homework]: ./homework.md
