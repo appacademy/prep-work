@@ -52,7 +52,6 @@ accepted**. Don't wait until the end to start; you need to practice as
 much as you can **before** the course to maximize what you learn
 **in** the course.
 
-* [Your Journey Begins!][welcome]
 * **[Signup for the mailing list][mailing-signup]**
 * **[Required readings][pre-course-readings]**
 * [Optional reading exercises][pre-course-exercises]
