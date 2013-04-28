@@ -4,9 +4,11 @@
 
 * [Setup Ruby][setup]
 * [Basic Ruby Concepts][basic-concepts]
+* [Example Problems][example-problems]
 
 [setup]: ./coding-test-1/setup.md
 [basic-concepts]: ./coding-test-1/basic-concepts.md
+[example-problems]: ./coding-test-1/example-problems.md
 
 ## Coding Test II
 
