@@ -1,6 +1,12 @@
 # App Academy Prepwork
 
-## Coding Test I
+## Coding Challenge I
+
+Below we list some prepwork to complete before taking the first coding
+challenge. If you're new to coding, the prepwork is meant to introduce you
+to the fundamentals of writing a computer program. After you've
+prepared, try out the example problems (and check the solutions!)
+before beginning the coding challenge.
 
 * [Setup Ruby][setup] (optional)
 * [Codecademy Ruby Track][codecademy-ruby]
@@ -10,7 +16,7 @@
     * Read up to and including "Introduction To Strings"; "Classes and
       OO Programming" isn't important.
 * [Basic Ruby Concepts][basic-concepts]
-* [Example Problems][example-problems]
+* **[Example Problems][example-problems]**
 
 [setup]: ./coding-test-1/setup.md
 [codecademy-ruby]: http://www.codecademy.com/tracks/ruby
@@ -18,7 +24,12 @@
 [basic-concepts]: ./coding-test-1/basic-concepts.md
 [example-problems]: ./coding-test-1/example-problems.md
 
-## Coding Test II
+## Coding Challenge II
+
+After you complete the first coding challenge successfully, you'll be
+invited to take the second coding challenge. This one will test your
+ability to apply basic programming principles to solve somewhat more
+complicated problems.
 
 * [Example practice problems][practice-problems]
 
