@@ -44,3 +44,4 @@
 [pre-course-exercises]: ./pre-course/optional-exercises.md
 [homework]: ./pre-course/homework.md
 [extra-resources]: ./pre-course/extra-resources.md
+[assessment00]: ./pre-course/assessment00.md
