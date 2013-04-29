@@ -80,7 +80,7 @@ nums.inject(0) do |accum, element| # accum is initially set to 0, the method arg
   accum + element
 end
 
-nums.inject(:+) # A cool shortcut that does the same as the above code. 
+nums.inject(:+) # A cool shortcut that does the same as the above code.
 
 nums.inject('') # Will set the accum value to an empty string.
 
@@ -170,37 +170,13 @@ Estimated time: 1hr
 * Write a method that takes an array of integers and returns an array
   with the array elements multiplied by two.
 
-* Extend the Array class to include a method named `my_each` that takes a block,
-  calls the block on every element of the array, and then returns the
-  original array. Do not use Ruby's Enumerable's `each` method. I want to be able to write:
-
-```ruby
-# calls my_each twice on the array, printing all the numbers twice.
-return_value = [1, 2, 3].my_each do |num|
-  puts num
-end.my_each do |num|
-  puts num
-end
-# => 1
-     2
-     3
-     1
-     2
-     3
-
-p return_value # => [1, 2, 3]
-```
-
-NB: you may wish to check out the [blocks](../blocks.md) section to
-familiarize yourself with blocks.
-
 * Write a method that finds the median of a given array of
   integers. If the array has an odd number of integers, return the
   middle item from the sorted array. If the array has an even number
   of integers, return the average of the middle two items from the
   sorted array.
 
-* Create a method that takes in an `Array` of `String`s and uses 
+* Create a method that takes in an `Array` of `String`s and uses
   `inject` to return the concatenation of the strings.
 
 ```ruby
