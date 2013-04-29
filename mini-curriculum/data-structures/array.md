@@ -65,7 +65,7 @@ You can also use -1 as the end value (-2 as the second to last value, etc.) of a
 ```ruby
 example = [5, 3, 2, 1, 55]
 example[2..-1]
-# => [2, 1, 55] 
+# => [2, 1, 55]
 ```
 
 
@@ -109,7 +109,7 @@ of the shifting.
 Likewise, if you modify items in an array you are iterating through,
 you are asking for pain and confusing errors. Don't do it.
 
-If you want to change an array's value while iterating, consider the map function. 
+If you want to change an array's value while iterating, consider the map function.
 
 One alternative to delete multiple elements of an array without
 iteration is [`#delete_if`][rdoc-delete-if].
@@ -234,9 +234,9 @@ nums
 
 ## shift and unshift
 
-Shift and unshift are the opposite of pop and push, respectively. 
+Shift and unshift are the opposite of pop and push, respectively.
 Shift removes the first element from the array and returns that element.
-Unshift pushes a new element into the front of the array and returns the modified array. 
+Unshift pushes a new element into the front of the array and returns the modified array.
 
 Example:
 ```ruby
@@ -251,8 +251,8 @@ array.unshift(5)
 # => [5,2,3,4]
 ```
 
-# Can you use a stack to reverse a string? You will need
-# `String#split` and `Array#join`.
+Can you use a stack to reverse a string? You will need `String#split`
+and `Array#join`.
 
 ## Turning arrays to strings: join
 
@@ -353,7 +353,7 @@ die.last
 # => 6
 ```
 
-##  Random (discrete uniform) sampling from arrays 
+##  Random (discrete uniform) sampling from arrays
 
 The `sample` method selects an element at random from the array where each element has equal probability of begin selected.  This does not alter the array.
 
@@ -517,12 +517,6 @@ cols = [
 
 Write a method, `my_transpose`, which will convert between the
 row-oriented and column-oriented representations.
-
-### Stock Picker
-
-Write a method that takes an array of stock prices (prices on days 0,
-1, ...), and outputs the most profitable pair of days on which to
-first buy the stock and then sell the stock.
 
 ## Resources
 * [Ruby Doc on Array](http://www.ruby-doc.org/core-1.9.3/Array.html)
