@@ -35,5 +35,5 @@ that, please contact [us](mailto:admissions@appacademy.io).
 
 ## Outside sources
 
-**Please** do not search Google for answers to the problems. Please do
-not post the problems to the internet.
+**Please** do not search Google for answers to the problems. **Please do
+not post the problems to the internet**.
