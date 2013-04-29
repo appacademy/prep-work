@@ -53,6 +53,3 @@ When done, please zip your Test First Ruby folder (complete with
 instructions, specs, and your solutions) and mail it to us at
 [admissions@appacademy.io](mailto:admissions@appacademy.io). Please
 also attach your Event Manager work.
-
-**You must submit your work to us by 3 weeks before your cycle is
-  scheduled to begin.**
