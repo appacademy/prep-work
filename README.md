@@ -56,7 +56,6 @@ much as you can **before** the course to maximize what you learn
 
 * **[Signup for the mailing list][mailing-signup]**
 * **[Required readings][pre-course-readings]**
-* [Optional reading exercises][pre-course-exercises]
 * **[Required homework][homework]**
     * **Your homework is due 3 weeks before your cycle is scheduled to
       begin**. See inside for exact date.
@@ -68,7 +67,6 @@ much as you can **before** the course to maximize what you learn
 [welcome]: ./pre-course/welcome.md
 [mailing-signup]: ./pre-course/mailing-signup.md
 [pre-course-readings]: ./pre-course/readings.md
-[pre-course-exercises]: ./pre-course/optional-exercises.md
 [homework]: ./pre-course/homework.md
 [extra-resources]: ./pre-course/extra-resources.md
 [assessment00]: ./pre-course/assessment00.md
