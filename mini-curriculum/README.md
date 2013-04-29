@@ -1,5 +1,7 @@
 # Ruby basics
 
+### Part I
+
 + Primitive Ruby types (common methods)
   + [Array][array]
   + [String][string]
@@ -30,23 +32,10 @@
 [maze-project]: https://github.com/appacademy/ruby-curriculum/blob/master/projects/maze-solver.md
 [eight-queens]: http://en.wikipedia.org/wiki/Eight_queens_puzzle
 
-### w1d2
+### Part II
+
 + [Iteration][iteration]
 + [Methods][methods]
-+ [Symbols, Strings, and Option Hashes][symbols-and-strings]
-+ [Input/Output][input-output]
-+ [Coding style][coding-style]
-+ [Classes][classes]
-+ [Pass by reference][pass-by-reference]
-+ **Project**: [MicroBlogger][microblogger]
-  * Don't do the Klout part.
 
 [iteration]: ./iteration.md
 [methods]: ./methods.md
-[symbols-and-strings]: ./symbols-and-strings.md
-[input-output]: ./io.md
-[coding-style]: ./coding-style.md
-[classes]: ./classes.md
-[pass-by-reference]: ./pass-by-reference.md
-
-[microblogger]: http://tutorials.jumpstartlab.com/projects/microblogger.html
