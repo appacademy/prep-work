@@ -16,7 +16,7 @@
 + **Project**: In Words (ex #15) from [Test First Ruby][test-first-ruby]
 + **Bonus project**: [Maze solver][maze-project]
 + **Bonus project**: Use Ruby to solve the
-  [eight-queens problems][eight-queens]
+  [eight-queens problem][eight-queens]
 
 [array]: ./data-structures/array.md
 [string]: ./data-structures/string.md
