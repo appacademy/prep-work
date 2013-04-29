@@ -23,8 +23,8 @@
 [object]: ./data-structures/object.md
 [pry-and-debugger]: https://github.com/appacademy/ruby-curriculum/blob/master/debugging/debugger.md
 [common-error-messages]: https://github.com/appacademy/ruby-curriculum/blob/master/debugging/common-exceptions.md
-[source-files]: ./language-basics/source-files.md
-[writing-a-script]: ./language-basics/writing-a-script.md
+[source-files]: ./source-files.md
+[writing-a-script]: ./writing-a-script.md
 
 [test-first-ruby]: https://github.com/alexch/learn_ruby
 [maze-project]: https://github.com/appacademy/ruby-curriculum/blob/master/projects/maze-solver.md
