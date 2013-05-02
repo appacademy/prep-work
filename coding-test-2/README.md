@@ -13,11 +13,12 @@ complicated problems.
 * [Ruby Monk][ruby-monk]
     * Read up to and including "Introduction To Strings"; "Classes and
       OO Programming" isn't important.
-* **TODO**: First couple days curriculum
+* [AppAcademy: Mini Curriculum][mini-curriculum]
 * **[Example practice problems][practice-problems]**
 
 [instructions]: ./instructions.md
 [setup]: ../coding-test-1/setup.md
 [codecademy-ruby]: http://www.codecademy.com/tracks/ruby
 [ruby-monk]: http://rubymonk.com
+[mini-curriculum]: ../mini-curriculum/README.md
 [practice-problems]: ./practice-problems
