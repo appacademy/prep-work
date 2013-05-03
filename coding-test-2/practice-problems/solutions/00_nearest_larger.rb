@@ -8,8 +8,10 @@ def nearest_larger(arr, idx)
       return left
     elsif (right < arr.length) && (arr[right] > arr[idx])
       return right
-    else
+    elsif (left < 0) && (right >= arr.length)
       return nil
     end
+    
+    diff += 1
   end
 end
