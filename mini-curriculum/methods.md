@@ -2,7 +2,7 @@
 
 ## Goals
 
-* Know what [side effects](http://en.wikipedia.org/wiki/Side_effect_(computer_science) and return values are.
+* Know what [side effects](http://en.wikipedia.org/wiki/Side_effect_(computer_science)) and return values are.
 * Know what an implicit return is, and that they are preferred.
 * Know some signs of a good method:
   * does one thing
