@@ -1,7 +1,8 @@
 # Mailing List Signup
 
-Let's stay in touch! Please apply to one of the following mailing
-lists:
+Once you've been formally sent an offer of acceptance, please sign up
+for your cycle's mailing list. **Please don't sign up before you've
+been sent an acceptance letter**.
 
 * [2013-01-07 (SF)][2013-01-07-sf]
 * [2013-03-11 (SF)][2013-03-11-sf]
