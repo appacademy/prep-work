@@ -16,14 +16,16 @@ rather than under-prepare :-)
 
 ## Assessment00 Schedule
 
-On **Monday, April 29**, we'll open the window for taking the
-assessment00. As with all our assessments, the exercise is timed
-(1hr). We'll send you a link to a website, you can request the
-assessment through the link, at which time we'll begin timing you.
+The Sunday three weeks before your cycle begins, we'll open the window
+for taking the first assessment, assessment00. As with all our
+assessments, **the exercise is timed (1hr)**. We'll send you a link to
+a website, you can request the assessment through the link, at which
+time we'll begin timing you.
 
-You'll have until **12:01 AM, Monday, May 06** to request and complete
-the assessment. We want you to complete it a week before class begins
-so you have time to further prepare if necessary.
+You'll have **eight days to request and complete the assessment**;
+we'll close the window at **12:01 AM Monday**. We want you to complete
+it two weeks before class begins so you have time to further prepare
+if necessary.
 
 **Please do not share or discuss the practice problems with other
 students until the course begins**. The assessment is for the
