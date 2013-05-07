@@ -14,6 +14,9 @@ been sent an acceptance letter**.
 * [2013-09-16 (SF)][2013-09-16-sf]
 * [2013-10-21 (NY)][2013-10-21-ny]
 
+Please also **send your github username to admin@appacademy.io** so that
+we can add you to the curriculum repos.
+
 [2013-01-07-sf]: https://groups.google.com/forum/?fromgroups&hl=en#!forum/appacademy-january-2013
 [2013-03-11-sf]: https://groups.google.com/forum/?fromgroups&hl=en#!forum/app-academy-sf-march
 [2013-04-15-ny]: https://groups.google.com/forum/?fromgroups&hl=en#!forum/app-academy-ny-april-2013
