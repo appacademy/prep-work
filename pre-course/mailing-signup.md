@@ -23,3 +23,6 @@ we can add you to the curriculum repos.
 [2013-05-13-sf]: https://groups.google.com/forum/?fromgroups&hl=en#!forum/app-academy-sf-may-2013
 [2013-06-17-ny]: https://groups.google.com/forum/?fromgroups&hl=en#!forum/app-academy-ny-june-2013
 [2013-07-15-sf]: https://groups.google.com/forum/?fromgroups&hl=en#!forum/app-academy-sf-july-2013
+[2013-08-19-ny]: https://groups.google.com/forum/?hl=en&fromgroups#!forum/app-academy-ny-aug-2013
+[2013-09-16-sf]: https://groups.google.com/forum/?hl=en&fromgroups#!forum/app-academy-sf-sep-2013
+[2013-10-21-ny]: https://groups.google.com/forum/?hl=en&fromgroups#!forum/app-academy-ny-october
