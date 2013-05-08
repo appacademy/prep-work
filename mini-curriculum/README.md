@@ -20,14 +20,12 @@
 [hash]: ./data-structures/hash.md
 [enumerable]: ./data-structures/enumerable.md
 [object]: ./data-structures/object.md
-[pry-and-debugger]: https://github.com/appacademy/ruby-curriculum/blob/master/debugging/debugger.md
-[common-error-messages]: https://github.com/appacademy/ruby-curriculum/blob/master/debugging/common-exceptions.md
+[pry-and-debugger]: ./debugging/debugger.md
+[common-error-messages]: ./debugging/common-exceptions.md
 [source-files]: ./source-files.md
 [writing-a-script]: ./writing-a-script.md
-
 [test-first-ruby]: https://github.com/alexch/learn_ruby
-[maze-project]: https://github.com/appacademy/ruby-curriculum/blob/master/projects/maze-solver.md
-[eight-queens]: http://en.wikipedia.org/wiki/Eight_queens_puzzle
+
 
 ### Part II
 
