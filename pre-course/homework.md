@@ -35,6 +35,7 @@ as to how to proceed.
 When you're finished with Test First Ruby, send it to us (instructions
 below).
 
+
 ## Event Manager (JumpstartLabs)
 
 [Event Manager][event-manager] is a tutorial that walks you through
@@ -46,6 +47,11 @@ When you've finished building the Event Manager, send it to us
 (instructions below).
 
 ### Errata
+
+**NB: the `rake` task will not work if you save it to a directory path
+that includes a space**. For instance, `/Users/FNAME LNAME/learn_ruby`
+contains a space. If necessary, move the `learn_ruby` to a directory
+path that doesn't contain a space.
 
 * Use `Sunlight::Legislator.all_in_zipcode` instead of
   `Sunlight::Congress::Legislator.all_in_zipcode`.
