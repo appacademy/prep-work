@@ -8,9 +8,9 @@ before beginning the coding challenge.
 
 * **[Instructions][instructions-1]**
 * [Setup Ruby][setup] (optional)
-* [Codecademy Ruby Track][codecademy-ruby]
-    * Great for beginners; the first seven sections -- through
-      "Refactoring" -- will be great prep.
+* [Chris Pine's Learn to Program][chris-pine]
+    * Great for beginners; the first eight chapters will be great
+      prep.
 * [Ruby Monk][ruby-monk]
     * Read up to and including "Introduction To Strings"; "Classes and
       OO Programming" isn't important.
@@ -19,7 +19,7 @@ before beginning the coding challenge.
 
 [instructions-1]: ./instructions.md
 [setup]: ./setup.md
-[codecademy-ruby]: http://www.codecademy.com/tracks/ruby
+[chris-pine]: http://pine.fm/LearnToProgram
 [ruby-monk]: http://rubymonk.com
 [basic-concepts]: ./basic-concepts.md
 [example-problems]: ./example-problems.md

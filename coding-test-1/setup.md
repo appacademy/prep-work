@@ -8,10 +8,9 @@ on your computer. If you're ready to do that, read on!
 
 ## Ruby
 
-[About.com's Ruby installation page][about-ruby-install] has
-instructions on how to install Ruby for Mac, Windows and Linux.
+Perhaps the most direct source on Ruby Setup is the [first chapter][pine-installation] of Chris Pine's Learn To Program ebook.
 
-[about-ruby-install]: http://ruby.about.com/od/tutorials/a/installruby.htm
+[pine-installation]:http://pine.fm/LearnToProgram/?Chapter=00)
 
 ## Code Editor
 
