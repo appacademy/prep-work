@@ -10,7 +10,7 @@ on your computer. If you're ready to do that, read on!
 
 Perhaps the most direct source on Ruby Setup is the [first chapter][pine-installation] of Chris Pine's Learn To Program ebook.
 
-[pine-installation]:http://pine.fm/LearnToProgram/?Chapter=00)
+[pine-installation]:http://pine.fm/LearnToProgram/?Chapter=00
 
 ## Code Editor
 
