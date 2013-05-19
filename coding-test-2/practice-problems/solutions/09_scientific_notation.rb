@@ -1,7 +1,7 @@
 def sci_not(num)
   num = num.to_f
   pow = 0
-  while (num > 10)
+  while (num >= 10)
     num /= 10
     pow += 1
   end
