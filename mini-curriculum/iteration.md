@@ -388,8 +388,7 @@ Time estimate: 1.5hrs
     [here](http://downloads.sourceforge.net/wordlist/12dicts-5.0.zip). Use
     '2of12inf.txt'.
   * Learn how to read a file [here](io.md#opening-a-file).
-  * You may need to use `String#chomp` to strip newline characters;
-    see the [Input/Output](io.md) chapter for details.
+  * You may need to use `String#chomp` to strip newline characters.
 
 ## Resources
 
