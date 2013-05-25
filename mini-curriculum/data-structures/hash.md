@@ -147,8 +147,8 @@ method:
 
 ```ruby
 capitals = { 'New York' => 'Albany', 'California' => 'Sacramento' }
-capitals.has_key('New York') # => true
-capitals.has_key('France') # => false
+capitals.has_key?('New York') # => true
+capitals.has_key?('France') # => false
 ```
 
 ## Exercises
