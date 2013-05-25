@@ -39,4 +39,8 @@ describe "#sci_not" do
   it "should convert a round-up situation" do
     sci_not(1249).should == "1.25E3"
   end
+
+  it "shouldn't round-up the first two digits" do
+    sci_not(15383).should == "1.54E4"
+  end
 end
