@@ -7,9 +7,9 @@ def sci_not(num)
   end
 
   str = ""
-  str << num.round.to_s
+  str << num.to_s[0]
   str << "."
-  str << ((num * 10).round % 10).to_s
+  str << (num * 10).to_s[1]
   str << ((num * 100).round % 10).to_s
   str << "E"
   str << pow.to_s
