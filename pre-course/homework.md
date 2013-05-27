@@ -8,7 +8,7 @@ be ready for class when it starts.
 
 [readings]: ./readings.md
 
-## Due-dates
+## Due-dates (Only relevant for accepted students)
 
 * 2013-06-17 (NY): due 2013-05-27.
 * 2013-07-15 (SF): due 2013-06-24.
