@@ -52,11 +52,6 @@ you'll remember the commands better.
 When you've finished building the Event Manager, send it to us
 (instructions below).
 
-### Errata
-
-* Use `Sunlight::Legislator.all_in_zipcode` instead of
-  `Sunlight::Congress::Legislator.all_in_zipcode`.
-
 [event-manager]: http://tutorials.jumpstartlab.com/projects/eventmanager.html
 
 ## Submitting Your Work
