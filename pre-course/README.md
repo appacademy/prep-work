@@ -22,7 +22,7 @@ much as you can **before** the course to maximize what you learn
       begin**. See inside for exact date.
 * [Extra resources and documents][extra-resources]
 * **[Assessment00][assessment00]**
-    * **We will mail you assessment00 2 weeks before your cycle
+    * **We will mail you assessment00 3 weeks before your cycle
       begins.**
 
 [welcome]: ./welcome.md
