@@ -1,3 +1,6 @@
+#if you have windows, you might need to use
+#require_relative '../lib/00_nearest_larger'
+
 require '00_nearest_larger'
 require 'rspec'
 
