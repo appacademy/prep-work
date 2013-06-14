@@ -20,8 +20,7 @@ much as you can **before** the course to maximize what you learn
 * **[Required homework][homework]**
     * **Your homework is due 3 weeks before your cycle is scheduled to
       begin**. See inside for exact date.
-* **[Typing practice][typing-practice]**
-    * Be able to type over 60WPM.
+* **[Typing practice][typing-practice]** (required)
 * [Extra resources and documents][extra-resources]
 * **[Assessment00][assessment00]**
     * **We will mail you assessment00 3 weeks before your cycle
