@@ -1,17 +1,19 @@
+# Typing Practice (required)
+
 As a programmer it is crucial to be able to touch-type effectively. We
-expect incoming students to be capable of typing above 60 WPM. Looking
-at the keyboard will reduce your productivity and distract you from
+expect incoming students to be capable of typing at least 60WPM. Stopping
+to look at the keyboard will reduce your productivity and distract you from
 the course material, so take the time you have now and become an
-excellent typist. Writing Ruby will require you to touch type
+excellent typist. Additionally, writing Ruby will require you to touch-type
 non-alphanumeric keys like `}`, `|`, `#`, `<`, and `@`, so make sure
 your fingers know where they are too.
 
-Take a moment now to test your raw typing speed on
+Take a moment to test your raw typing speed on
 [typeracer][type-racer]. If you're able to consistently score above
 60WPM, try typing through the first 100 lines of _Ruby on Rails_ at
 [typing.io][typing-io]. If you have trouble typing above 60WPM at
 typeracer, or can't type through _RoR_ without looking at the
-keyboard, you need to practice before the course begins.
+keyboard, you need to practice regularly before the course begins.
 
 ### Typing Resources
 * [Type Fu][type-fu] - A good resource for getting down the
