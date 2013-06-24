@@ -12,8 +12,11 @@ before beginning the coding challenge.
     * Great for beginners; the first eight chapters will be great
       prep.
 * [Ruby Monk][ruby-monk]
-    * Read up to and including "Introduction To Strings"; "Classes and
-      OO Programming" isn't important.
+    * Complete the following sections in the Ruby Primer section:
+        * Introduction to Ruby Objects
+        * Introduction to Strings
+        * Conditions and Loops
+        * Arrays in Ruby
 * [Basic Ruby Concepts][basic-concepts]
 * **[Example Problems][example-problems]**
 
