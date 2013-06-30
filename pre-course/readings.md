@@ -12,7 +12,7 @@ those that have exercises, do them.
     * Just Testing (pg. 192-196 in the second edition) from ch8
 * JumpstartLabs' [Ruby in 100 Minutes][ruby-in-100-min].
     * Another intro to Ruby with a lot of good intro exercises.
-* Chris Pine's [Learn to Program][chris-pine]
+* Chris Pine's [Learn to Program][pine-amazon]
     * ch1-ch10.
     * There are a few exercises at the end of each chapter under the
       heading, "A Few Things to Try". Do these for practice, but you
@@ -21,5 +21,5 @@ those that have exercises, do them.
     * An interactive introduction to Ruby.
 
 [ruby-in-100-min]: http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html
-[chris-pine]: http://pine.fm/LearnToProgram/
+[pine-amazon]: http://www.amazon.com/Program-Second-Edition-Facets-Series/dp/1934356360/ref=sr_1_1?ie=UTF8&qid=1363458523&sr=8-1&keywords=learn+to+program
 [ruby-primer]: http://rubymonk.com/learning/books/1

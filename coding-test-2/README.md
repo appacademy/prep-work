@@ -7,9 +7,9 @@ complicated problems.
 
 * [Instructions][instructions]
 * [Setup Ruby][setup] (recommended)
-* [Chris Pine's Learn to Program][chris-pine]
-    * Great for beginners; the first eight chapters will be great
-      prep.
+* [Codecademy Ruby Track][codecademy-ruby]
+    * Great for beginners; the first seven sections -- through
+      "Refactoring" -- will be great prep.
 * [Ruby Monk][ruby-monk]
     * Complete the following sections in the Ruby Primer section:
         * Introduction to Ruby Objects
@@ -21,7 +21,7 @@ complicated problems.
 
 [instructions]: ./instructions.md
 [setup]: ../coding-test-1/setup.md
-[chris-pine]: http://pine.fm/LearnToProgram
+[codecademy-ruby]: http://www.codecademy.com/tracks/ruby
 [ruby-monk]: http://rubymonk.com
 [mini-curriculum]: ../mini-curriculum/README.md
 [practice-problems]: ./practice-problems
