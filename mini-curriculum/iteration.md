@@ -148,7 +148,7 @@ end
 The `break` keyword jumps out of the loop. This means that the loop
 will end as soon as we find our favorite number. In this case, we save
 extra cycles going through the loop, and we make sure we print out
-"Found my..." at most once.
+"List contains..." at most once.
 
 ## Iterating through arrays with each
 
