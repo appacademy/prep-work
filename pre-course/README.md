@@ -25,7 +25,7 @@ much as you can **before** the course to maximize what you learn
 * **[Assessment00][assessment00]**
     * **We will mail you assessment00 3 weeks before your cycle
       begins.**
-* [Rails Tutorial][hartl]
+* **[Rails Tutorial][hartl]**
 
 [welcome]: ./welcome.md
 [mailing-signup]: ./mailing-signup.md
