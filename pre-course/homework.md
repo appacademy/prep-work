@@ -49,6 +49,8 @@ writing your first Ruby program. Work through the tutorial, writing
 code. **Type the code yourself** instead of copy and pasting; that way
 you'll remember the commands better.
 
+You can skip the iterations at the end of the tutorial.
+
 When you've finished building the Event Manager, send it to us
 (instructions below).
 
