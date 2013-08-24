@@ -45,6 +45,22 @@ def pow(base, exponent)
 
   result
 end
+
+
+#while the code above is concise and highly rational, it doesn't account for non-integers and negative numbers
+# I thought I'd add this below
+
+def pow(base, exponent)
+  if base == 1 || exponent == 0
+    (base * exponent) == 1
+  elsif (base < 0 || exponent < 0) || !base.is_a?(Integer) || !exponent.is_a?(Integer)
+    puts "Sorry little puppy - You can only use non-negative integers."
+  elsif exponent == 1
+    base
+  else (base * base) * (exponent - 1)       
+    end
+
+end
 ```
 
 **Q2**: `sum`
