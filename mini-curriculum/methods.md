@@ -59,7 +59,7 @@ useful) and thus is used exclusively for its side-effects.
 ## Good methods are short, simple and coherent
 
 Your methods should be as simple as possible. In particular, they
-should do one thing; you should be explain what it does in a single
+should do one thing; you should be able to explain what it does in a single
 sentence. You should be able to give it a straightforward, descriptive
 name. Another sign of a good method is that it is <10 lines. The
 primary way to achieve this is to break code up into several shorter
