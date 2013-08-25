@@ -28,6 +28,10 @@ describe "#ordered_vowel_words" do
     ordered_vowel_words("ham").should == "ham"
   end
 
+  it "handles a word with no vowel" do
+    ordered_vowel_words("crypt").should == "crypt"
+  end
+
   it "handles a word with a single letter" do
     ordered_vowel_words("o").should == "o"
   end
