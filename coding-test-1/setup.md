@@ -6,11 +6,11 @@ You can use [repl.it](http://repl.it) and avoid any setup of Ruby for
 the first coding challenge. Longer term, you will want to install Ruby
 on your computer. If you're ready to do that, read on!
 
-## Ruby
-[About.com's Ruby installation page][about-ruby-install] has
-instructions on how to install Ruby for Mac, Windows and Linux.
+## Ruby 
 
-[about-ruby-install]: http://ruby.about.com/od/tutorials/a/installruby.htm
+Perhaps the most direct source on Ruby Setup is the [first chapter][pine-installation] of Chris Pine's Learn To Program ebook.
+
+[pine-installation]: http://pine.fm/LearnToProgram/?Chapter=00
 
 ## Code Editor
 
