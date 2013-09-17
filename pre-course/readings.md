@@ -19,10 +19,12 @@ those that have exercises, do them.
       don't have to submit them to us.
 * Ruby Monk's [Ruby Primer][ruby-primer]
     * An interactive introduction to Ruby.
-* Hartl's [Rails Tutorial][hartl]
-    * **Not required if you are doing the Post-Acceptance Prepwork as part of the application process and have not already enrolled into the class.**
+* **Not required if you are doing the Post-Acceptance Prepwork as part of the application process and have not already enrolled into the class.**
+    * Michael Hartl's [Rails Tutorial][hartl]
+    * Zed Shaw's [The Command Line Crash Course][shaw-cli]
 
 [ruby-in-100-min]: http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html
 [chris-pine]: http://pine.fm/LearnToProgram/
 [ruby-primer]: http://rubymonk.com/learning/books/1
 [hartl]: http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
+[shaw-cli]: http://cli.learncodethehardway.org/book/
