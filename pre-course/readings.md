@@ -24,7 +24,7 @@ those that have exercises, do them.
     * Zed Shaw's [The Command Line Crash Course][shaw-cli]
 
 [ruby-in-100-min]: http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html
-[chris-pine]: http://pine.fm/LearnToProgram/
+[chris-pine]: http://notfine.com/books/learn-to-program_p2_0.pdf
 [ruby-primer]: http://rubymonk.com/learning/books/1
 [hartl]: http://ruby.railstutorial.org/ruby-on-rails-tutorial-book?version=3.2
 [shaw-cli]: http://cli.learncodethehardway.org/book/

@@ -21,7 +21,7 @@ before beginning the coding challenge.
 
 [instructions-1]: ./instructions.md
 [setup]: ./setup.md
-[chris-pine]: http://pine.fm/LearnToProgram/?Chapter=00
+[chris-pine]: http://notfine.com/books/learn-to-program_p2_0.pdf
 [ruby-monk]: http://rubymonk.com
 [basic-concepts]: ./basic-concepts.md
 [example-problems]: ./example-problems.md
