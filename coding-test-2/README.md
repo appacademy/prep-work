@@ -20,7 +20,7 @@ complicated problems.
 
 [instructions]: ./instructions.md
 [setup]: ../coding-test-1/setup.md
-[chris-pine]: http://notfine.com/books/learn-to-program_p2_0.pdf
+[chris-pine]: http://pine.fm/LearnToProgram/?Chapter=00
 [ruby-monk]: http://rubymonk.com
 [mini-curriculum]: ../mini-curriculum/README.md
 [practice-problems]: ./practice-problems
