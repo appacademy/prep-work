@@ -6,7 +6,7 @@ require 'rspec'
 # repeated digits.
 #
 # You should probably write a helper function, `no_repeat?(year)` which
-# returns true/false if a singe year doesn't have a repeat.
+# returns true/false if a single year doesn't have a repeat.
 #
 # Difficulty: 1/5
 
