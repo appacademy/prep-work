@@ -29,7 +29,7 @@ You should now be able to run `./script.rb`.
 ### Conditional execution
 
 Sometimes you want to write a Ruby file that can be used as a library, but
-also invoked as a script. This is especially if you'd like to `require` your
+also invoked as a script. This is especially true if you'd like to `require` your
 script to test out in irb.
 
 ```ruby
