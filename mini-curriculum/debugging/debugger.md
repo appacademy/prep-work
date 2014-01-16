@@ -156,8 +156,8 @@ them to your home (`~`) directory and rename them with an initial
 dot. They should be picked up and used by Pry and the Ruby debugger
 automatically.
 
-[pryrc]: https://github.com/ruggeri/dotfiles/blob/master/pryrc
-[rdebugrc]: https://github.com/ruggeri/dotfiles/blob/master/rdebugrc
+[pryrc]: https://github.com/ruggeri/dotfiles/blob/master/ruby/pryrc
+[rdebugrc]: https://github.com/ruggeri/dotfiles/blob/master/ruby/rdebugrc
 
 ## Use the REPL to isolate the problem
 
