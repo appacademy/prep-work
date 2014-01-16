@@ -78,7 +78,7 @@ while i <= 5
 end
 ```
 
-This would do the almost the same thing as our previous loop; verify
+This would do almost the same thing as our previous loop; verify
 this for yourself.
 
 Don't write loops with indices starting at one; you'll confuse other
