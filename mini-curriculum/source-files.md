@@ -25,7 +25,7 @@ the `require` method:
 => #<Set: {1, 2, 3}>
 ```
 
-This won't work quite work for your own code; only code in installed
+This won't quite work for your own code; only code in installed
 *gems* (bundles of code distributed on the internet) can be loaded
 without first giving a path:
 
