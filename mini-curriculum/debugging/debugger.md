@@ -146,8 +146,10 @@ worry. We're about to learn better techniques.
 ## Pry and debugger
 
 We're going to use two gems. One is called Pry, which is a replacement
-for irb. You'll have to `gem install pry`. It's not essential for
+for [irb][irb]. You'll have to `gem install pry`. It's not essential for
 debugging that you use Pry, but it will make life nicer.
+
+[irb]: http://en.wikipedia.org/wiki/Interactive_Ruby_Shell
 
 We're also going to use debugger (`gem install debugger`). This is a
 Ruby 1.9.3 gem, so make sure you have that version. You may also wish
@@ -158,6 +160,7 @@ automatically.
 
 [pryrc]: https://github.com/ruggeri/dotfiles/blob/master/ruby/pryrc
 [rdebugrc]: https://github.com/ruggeri/dotfiles/blob/master/ruby/rdebugrc
+
 
 ## Use the REPL to isolate the problem
 
