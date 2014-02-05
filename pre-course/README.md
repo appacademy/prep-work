@@ -26,6 +26,8 @@ much as you can **before** the course to maximize what you learn
     * **We will mail you assessment00 3 weeks before your cycle
       begins.**
 
+Note: We also have a [Facebook Group](https://www.facebook.com/groups/AppAcademyStudentsAndAlums) which is run by former students (not required).
+
 [welcome]: ./welcome.md
 [mailing-signup]: ./mailing-signup.md
 [pre-course-readings]: ./readings.md
