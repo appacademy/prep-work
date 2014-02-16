@@ -63,7 +63,7 @@ re-`require`, the method will return `false` to indicate what
 happened.
 
 The solution is to use `load`, which will always try to reload a
-file. You shouldn't only use this in the REPL; don't use load in your
+file. You should only use this in the REPL; don't use load in your
 source files. But if you don't want to reload everything in the REPL,
 `load` is your solution.
 
