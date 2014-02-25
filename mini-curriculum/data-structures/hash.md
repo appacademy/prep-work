@@ -157,7 +157,7 @@ Estimated time: 30min
 
 ### Set
 
-In Math a Set is an exlusive list of numbers. Examples are the best way to show this.
+In Math a Set is an exclusive list of numbers. Examples are the best way to show this.
 
 {3,5,6} is a set. 
 {3,5,6,6} is not. 
@@ -165,7 +165,7 @@ In Math a Set is an exlusive list of numbers. Examples are the best way to show 
 In a set, order does not matter. So, {5,3,6} is the same as the one above. So, you can see, the actual index or order of these numbers do not matter, as they would were they to be held in an array. 
 
 
-Ruby provides a class named `Set`. You can read all about it in the
+Ruby provides a class named `Set` in the Standard Library. You can read all about it in the
 [ruby-doc][ruby-doc]. Let's make a set of methods that will manipulate
 a `Hash` as if it were a `Set`.  Like so:
 
