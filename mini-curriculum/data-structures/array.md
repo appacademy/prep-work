@@ -355,7 +355,7 @@ die.last
 
 ##  Random (discrete uniform) sampling from arrays
 
-The `sample` method selects an element at random from the array where each element has equal probability of begin selected.  This does not alter the array.
+The `sample` method selects an element at random from the array where each element has equal probability of being selected.  This does not alter the array.
 
 ```ruby
 
