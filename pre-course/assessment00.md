@@ -35,8 +35,8 @@ cheated; underprepared students who don't get help early hurt their
 chances of completing the course successfuly.
 
 The assessment mimics the practice problems: it consists of four
-problems and their accompanying test specs. Your job it to get the
-specs to "go green" and pass (just like with the practice problems.
+problems and their accompanying test specs. Your job is to get the
+specs to "go green" and pass (just like with the practice problems).
 
 **So dive into the practice problems and good luck!**
 
