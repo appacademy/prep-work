@@ -14,7 +14,7 @@ files (in the `spec` directory); check those for instructions on what
 you are supposed to do. You can run the specs for an individual
 problem like so:
 
-    rake spec spec/00_nearest_larger_spec.rb
+    bundle exec rspec spec/00_nearest_larger_spec.rb
 
 You can write your code in the corresponding files in `lib` (e.g.,
 `lib/00_nearest_larger.rb`). I've filled them out with a blank method
