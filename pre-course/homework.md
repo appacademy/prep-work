@@ -20,7 +20,7 @@ correct mistakes. It will also give you practice running RSpec tests
 (complete level 1 of [CodeSchool's RSpec course][codeschool-rspec] if
 you need a refresher on RSpec).
 
-[test-first-ruby]: https://github.com/alexch/learn_ruby
+[test-first-ruby]: https://github.com/appacademy/test-first-ruby
 [codeschool-rspec]: http://rspec.codeschool.com/levels/1
 
 The required exercises are 0-12 and 14. To begin work, go to the
