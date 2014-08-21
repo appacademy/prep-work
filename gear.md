@@ -8,6 +8,17 @@ What follows are a bunch of my opinions. However, I feel strongly that
 this is good advice, and hope you'll consider it when making a
 decision.
 
+## tl;dr
+
+* Don't use Windows.
+* Apple is preferred.
+    * If you're buying a new machine, I would make it an Apple.
+    * MacBook Air is cool.
+* Ubuntu is also totally cool.
+* You don't absolutely need your own laptop.
+    * You can use our machines 24/7.
+    * It's harder, though. I'd want my own machine.
+
 ## Don't Use Windows For App Academy
 
 Actually, this one isn't an opinion: don't use Windows for App
@@ -79,12 +90,13 @@ about coding. Since Apple both writes OS X and produces the hardware,
 a lot of these bumps are smoothed by OS X.
 
 You don't have a lot of time to be sucked by these issues. If you're
-spending >$900 on a laptop, I strongly recommend you make in a MacBook
-Air.
+spending ~$900 on a laptop, my very strong recommendation is to buy a
+MacBook Air in preference to Dell/Lenovo/etc.
 
 OTOH, **do not feel compelled to buy a new machine**. We are happy to
 support Ubuntu. New hardware is expensive, and Ubuntu will do
-absolutely everything you need.
+everything you need. It might just throw some quirks your way from
+time to time.
 
 ## SF: 802.11n
 
@@ -97,7 +109,8 @@ For non-Apple hardware, check to see if your wireless card does
 will do 802.11n but not 5Ghz.
 
 If not, you can use a USB wireless interface. The
-[Asus USB-N53][usb-n53] seems to have driver support on Linux.
+[Asus USB-N53][usb-n53] seems to have fair driver support on Linux,
+though I don't have personal experience with it.
 
 [usb-n53]: http://www.amazon.com/Asus-Wireless-N-Graphical-Interface-USB-N53/dp/B005SAKW9G
 
