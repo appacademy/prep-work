@@ -1,32 +1,52 @@
-# Setup
+# Ruby Setup
 
-## Avoid the hassle?
+## Nitrous.io
 
-You can use [repl.it](http://repl.it) and avoid any setup of Ruby for
-the first coding challenge. Longer term, you will want to install Ruby
-on your computer. If you're ready to do that, read on!
+It is not required to install Ruby on your own machine before the
+coding challenge. The easiest way to start using Ruby is to use
+[nitrous.io][nitrous.io]; it is free. Go there and sign up.
 
-## Ruby 
+After you've signed in, create your first box. **Where it says
+"Download a Github repo", paste in
+https://github.com/appacademy/prep-work.git**.
 
-[About.com's Ruby installation page][about-ruby-install] has
-instructions on how to install Ruby for Mac, Windows and Linux.
+Nitrous.io will provide a text editor for you to edit Ruby code in the
+browser. You can write Ruby code in the text editor. At the bottom is
+a console, you can run your code in the console.
 
-[about-ruby-install]: http://ruby.about.com/od/tutorials/a/installruby.htm
+**You should be able to do all the prepwork using nitrous.io.**
 
-## Code Editor
+**TODO**: video demo of Nitrous.io.
 
-You need a proper code editor; notepad or TextEdit won't cut
-it. Because we work in pairs, it's important that everyone use the
-same text editor. Please use [Textmate 2][textmate-github] (download
-[here][textmate-download]).
+[nitrous.io]: https://www.nitrous.io/
 
-Textmate is Mac only; Windows users can use [Sublime][sublime].
+## Advanced Setup
 
-[textmate-github]: https://github.com/textmate/textmate
-[textmate-download]: https://api.textmate.org/downloads/beta
-[sublime]: http://www.sublimetext.com/
+**You do not have to install Ruby on your own machine to do the
+prep-work.** When starting out, you want to spend as much time coding
+and as little time as possible on banal setup tasks. Therefore, we
+highly recommend you use nitrous.io.
 
-## Terminal
+Setting up Ruby on your machine can be a frustrating process. Setting
+up Ruby is not the same as programming; even great Rubyists can be
+frustrated by the hoops they have to jump through to setup their
+machine. Don't be discouraged if it's difficult!
+
+To install Ruby on Windows, we recommend
+[RubyInstaller][ruby-installer]. To install on Mac OSX, look at
+[Tokaido][tokaido].
+
+[ruby-installer]: http://rubyinstaller.org/
+[tokaido]: https://github.com/tokaido/tokaidoapp
+
+### Text Editor
+
+You also need a proper code editor; Microsoft's notepad or Mac's
+TextEdit won't cut it. We recommend you use [Atom][atom].
+
+[atom]: https://atom.io/
+
+### Terminal
 
 A lot of Ruby development is done at the command line. Mac users can
 use Terminal.app.
