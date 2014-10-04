@@ -20,7 +20,7 @@ describe "#nearest_larger" do
   end
 
   it "handles a simple case to the left" do
-    nearest_larger([6,8,4,3], 2).should == 1
+    nearest_larger([2,8,4,3], 2).should == 1
   end
 
   it "treats any two larger numbers like a tie" do
