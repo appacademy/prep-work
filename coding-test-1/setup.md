@@ -4,21 +4,23 @@
 
 It is not required to install Ruby on your own machine before the
 coding challenge. The easiest way to start using Ruby is to use
-[nitrous.io][nitrous.io]; it is free. Go there and sign up.
+[nitrous.io][nitrous.io]; it is free.
 
-After you've signed in, create your first box. **Where it says
-"Download a Github repo", paste in
-https://github.com/appacademy/prep-work.git**.
+**We've recorded a [video demo][video-demo] of how to use
+Nitrous.io**. Here are the key steps:
 
-Nitrous.io will provide a text editor for you to edit Ruby code in the
-browser. You can write Ruby code in the text editor. At the bottom is
-a console, you can run your code in the console.
+0. Go to [nitrous.io][nitrous.io] and sign up.
+0. After you've signed up and confirmed your email, create your first
+   box. **Where it says "Download a Github repo", paste in
+   https://github.com/appacademy/prep-work.git**.
+0. Nitrous.io will provide a text editor for you to edit Ruby code in
+   the browser. You can write Ruby code in the text editor. At the
+   bottom is a console, you can run your code in the console.
 
 **You should be able to do all the prepwork using nitrous.io.**
 
-**TODO**: video demo of Nitrous.io.
-
 [nitrous.io]: https://www.nitrous.io/
+[video-demo]: https://vimeo.com/109200633
 
 ## Advanced Setup
 
