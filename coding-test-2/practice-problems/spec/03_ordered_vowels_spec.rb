@@ -20,7 +20,7 @@ describe "#ordered_vowel_words" do
     ordered_vowel_words("complicated").should == ""
   end
 
-  it "handle double vowels" do
+  it "handles double vowels" do
     ordered_vowel_words("afoot").should == "afoot"
   end
 
