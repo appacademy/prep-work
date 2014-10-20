@@ -18,11 +18,11 @@ and break it down into smaller tasks. You then break down these
 smaller tasks further until you get to the simplest, most basic tasks
 that the computer already understands.
 
-You will use a **programming language** to tell your computer how to
-do things. A computer program is a series of instructions in the
+You will use a **programming language** to communicate tasks to your computer. 
+A computer program is a series of instructions in the
 programming language. There are many programming languages: we will
 learn **Ruby**. Ruby is an elegant programming language perfect for
-stuents who are beginning in coding. It is also powerful and
+students who are beginning to code. It is also powerful and
 expressive, which makes it a great choice for advanced programmers.
 
 ## Programming Environment Setup
@@ -45,11 +45,11 @@ puts("Hello world!")
 
 Save your program as `first_program.rb`. In the console, type in `ruby
 first_program.rb`. This will run the program you just wrote. Your
-program should print the "Hello world!".
+program should print "Hello world!".
 
 `puts` is one of the most basic Ruby commands (also called
 **methods**). `puts` tells Ruby to print out a **string**. A
-**string** is a sequence of letters. Ruby strings have nothing to do
+**string** is a sequence of characters. Ruby strings have nothing to do
 with yarn; it's just a weird name.
 
 To write a string in your Ruby program, wrap it in quotation marks;
@@ -255,8 +255,8 @@ where the input `name` (called an **argument**) is being **passed
 into** the `puts` method as input. The `puts` method will use the
 input `name` and print it out.
 
-Methods that take no arguments, like `gets`, don't need to have the
-parentheses used; they're optional. For instance, we can write:
+Methods that take no arguments, like `gets`, don't need to include 
+parentheses; they're optional. For instance, we can write:
 
 ```ruby
 puts("Type in your name!")
@@ -315,10 +315,10 @@ puts(cool_things)
 
 Concatenation means mashing the strings together to form one longer
 string. When we say `"4" + "3"`, it takes the two one-character
-strings together and creates a single the two character string `"43"`.
+strings and creates a single two character string `"43"`.
 
 Again, to turn the string `"123"` into the integer `123`, write
-`"123".to_i`. So here is how we can prompt the integer from the user:
+`"123".to_i`. So here is how we can prompt for an integer:
 
 ```ruby
 puts("I will add 5 to your number; type a number!")
@@ -381,7 +381,7 @@ program will output:
     !
 
 The "!" will be placed on the following line. That's because Ruby
-reads in the characters "N", "e", "d", and enter. Because it reads the
+reads the characters "N", "e", "d", and enter. Because it reads the
 enter character (technically called the **newline** character),
 there's a newline after the "d" but before the "!" in the output.
 
