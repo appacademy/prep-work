@@ -15,18 +15,18 @@ Read all of this document. But here's the executive summary:
    solutions.
 0. When you're well prepared (and not before), start the challenge! We
    don't give any preference to applicants based on how soon they
-   start the challenge, so take your time to prepare!
+   start the challenge, so take your time to prepare properly!
 
 ## What is the coding challenge?
 
-We ask applicants to do a short coding challenge. We will ask you to
-solve **four or five coding problems that measure basic programming
+We will ask you to solve a short coding challenge composed of 
+**four or five coding problems that measure basic programming
 knowledge**. The challenge is timed: **you will have up to 45 minutes
 to complete the challenge**.
 
 ## How difficult is the challenge?
 
-**The coding challenge is meant ot be accessible to everyone**. Many
+**The coding challenge is meant to be accessible to everyone**. Many
 of our applicants have never programmed before. Everyone should review
 these prepwork materials, which are intended to teach you the
 fundamental concepts of programming so that you can succeed on the
@@ -96,7 +96,7 @@ challenge before completing the prepwork will hurt your
 application**. Taking your time to prepare thoroughly will help you.
 
 The challenge will take up to 45 minutes. **Please have time set aside
-so that you can complete the challenege unhurried by other
+so that you can complete the challenge unhurried by other
 commitments.**
 
 ## Can I use Google for answers during the challenge?
