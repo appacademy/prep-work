@@ -63,7 +63,7 @@ puts("Here's some cool things in backward order:")
 idx = 0
 while idx < cool_things.length
   puts(cool_things[idx])
-  idx = idx - 1
+  idx = idx + 1
 end
 
 # This prints the array out in order of increasing position, which is
