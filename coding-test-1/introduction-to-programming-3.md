@@ -250,8 +250,8 @@ Sometimes a method should do some work, and then **return** a value
 back to the caller.
 
 ```ruby
-# The caller will give the input `number_of_squares`; this method will
-# return an array consisting of the first `number_of_squares` squares.
+# The caller will give the input `number_of_squares`; this method will return an array 
+# consisting of the squares for numbers from 0 up until the number specified by 'number_of_squares'.
 def first_square_numbers(number_of_squares)
   squares = []
 
