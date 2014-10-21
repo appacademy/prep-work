@@ -6,35 +6,42 @@
 #
 # Difficulty: hard.
 
-def num_repeats(array)
-  repeats = 0
+def num_repeats(str)
+  counts = []
 
-  idx1 = 0
-  while idx1 < array.length
-    is_repeat = false
-    idx2 = 0
-    while idx2 < array.length
-      if array[idx1] != array[idx2]
-        idx2 += 1
-        next
-      elsif idx2 < idx1
-        # will have previously counted this repeat
+  str_idx = 0
+  while str_idx < str.length
+    letter = str[str_idx]
+
+    counts_idx = 0
+    while counts_idx < counts.length
+      if counts[counts_idx][0] == letter
+        counts[counts_idx][1] += 1
         break
-      elsif idx2 > idx1
-        is_repeat = true
       end
-
-      idx2 += 1
+      counts_idx += 1
     end
 
-    if is_repeat
-      repeats += 1
+    if counts_idx == counts.length
+      # didn't find this letter in the counts array; count it for the
+      # first time
+      counts.push([letter, 1])
     end
 
-    idx1 += 1
+    str_idx += 1
   end
 
-  return repeats
+  num_repeats = 0
+  counts_idx = 0
+  while counts_idx < counts.length
+    if counts[counts_idx][1] > 1
+      num_repeats += 1
+    end
+
+    counts_idx += 1
+  end
+
+  return num_repeats
 end
 
 puts("num_repeats(\"abdbc\") == 1: #{num_repeats("abdbc") == 1}")
