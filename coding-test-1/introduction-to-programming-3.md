@@ -410,6 +410,10 @@ prepare you for the coding challenge.
 before the coding challenge**. You want to practice so that you do
 your best.
 
+If you would like to review the Introduction to Programming Minibook,
+a recap of the various topics are available here: [Introduction To Programming Summary][intro-to-programming-summary]
+
 Good luck!
 
+[intro-to-programming-summary]: ./introduction-to-programming-summary.md
 [practice-problems]: ./practice-problems
