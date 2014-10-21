@@ -13,3 +13,8 @@ challenge.
 
 Each of these practice problems is an individual Ruby file. Run the
 file; if any "false" is output, then your program contains an error.
+
+If you would like to review the Introduction to Programming Minibook,
+a recap of the various topics are available here: [Introduction To Programming Summary][intro-to-programming-summary]
+
+[intro-to-programming-summary]: ./introduction-to-programming-summary.md
