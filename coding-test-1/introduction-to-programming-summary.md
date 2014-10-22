@@ -31,10 +31,10 @@ returns the remainder when dividing a number:
 
 ## Variables
 
-Know what a variable is and how to store and recall values.
+Know what a variable is as well as how to store and recall values.
 
 A variable stores a value for later use. Know how to create and
-assign to variables.
+assign variables.
 
 ```ruby
 # create variable, assign it 3
@@ -62,7 +62,7 @@ operation *concatenation*).
 
 ## Methods
 
-Know what a method is, how to define one, how to return a value
+Know what a method is, how to define one, and how to return a value
 from a method. Know how to call a method.
 
 ```ruby
