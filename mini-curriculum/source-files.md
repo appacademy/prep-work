@@ -11,7 +11,7 @@ definition of a single class.
 Your early files should probably contain just the code for the
 problems in the current chapter. You may wish to name them
 `object_exercises.rb`, `string_exercises.rb`, etc. The `.rb` is not
-vital, but it will signal to Textmate2 that it is dealing with a Ruby
+vital, but it will signal to Atom that it is dealing with a Ruby
 file.
 
 Once your code is in files, you will want to be able to load them. Use
