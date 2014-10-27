@@ -259,7 +259,7 @@ greater than (or equal to) 100, the program will jump past the `while`
 loop. If the input number is less than 100, Ruby will execute the body
 of the loop. It will then test again whether `num < 100`. If num is
 still less than 100, it will execute the body again. Ruby will keep
-doing this until the test `num < 100` returns true.
+doing this until the test `num < 100` returns false.
 
 Let's use a loop to write a simple program:
 
