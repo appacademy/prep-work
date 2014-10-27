@@ -48,7 +48,7 @@ cool_things = []
 while cool_things.length < 3
   puts("Tell me a cool thing!")
   one_cool_thing = gets.chomp
-  # This adds one item at the end of the array.
+  # This adds one item at the beginning of the array.
   cool_things.unshift(one_cool_thing)
 end
 
