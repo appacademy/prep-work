@@ -19,7 +19,9 @@ those that have exercises, do them.
       don't have to submit them to us.
 * Ruby Monk's [Ruby Primer][ruby-primer]
     * An interactive introduction to Ruby.
-* **Not required if you are doing the Post-Acceptance Prepwork as part of the application process and have not already enrolled into the class.**
+* **Not required if you are doing the Post-Acceptance Prepwork as part
+  of the application process and have not already enrolled into the
+  class.**
     * Michael Hartl's [Rails Tutorial][hartl]
     * Zed Shaw's [The Command Line Crash Course][shaw-cli]
 

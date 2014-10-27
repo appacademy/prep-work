@@ -38,6 +38,21 @@ that includes a space**. For instance, `/Users/FNAME LNAME/learn_ruby`
 contains a space. If necessary, move the `learn_ruby` to a directory
 path that doesn't contain a space.
 
+## Rails Tutorial
+
+**Not required if you are doing the Post-Acceptance Prepwork as part
+of the application process and have not already enrolled into the
+class.**
+
+We want you to complete and turn in the
+[Rails Tutorial][rails-tutorial] before starting the class. We'll
+start with Ruby before moving into Rails, but we want you to have
+played around with Rails a little. Following along with the tutorial,
+build the Twitter clone that the book has you start in Chapter 3 (read
+and follow along with the earlier chapters, too, of course).
+
+[rails-tutorial]: http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
+
 ## Event Manager (JumpstartLabs)
 
 [Event Manager][event-manager] is a tutorial that walks you through
