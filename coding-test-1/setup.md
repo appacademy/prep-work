@@ -26,8 +26,8 @@ Nitrous.io**. Here are the key steps:
 
 **You do not have to install Ruby on your own machine to do the
 prep-work.** When starting out, you want to spend as much time coding
-and as little time as possible on banal setup tasks. Therefore, we
-highly recommend you use nitrous.io.
+and as little time as possible on banal setup tasks. **Therefore, we
+highly recommend you use nitrous.io.**
 
 Setting up Ruby on your machine can be a frustrating process. Setting
 up Ruby is not the same as programming; even great Rubyists can be
