@@ -9,7 +9,7 @@ def scramble_string(string, positions)
 
   i = 0
   while i < positions.length
-    result.push(string[positions[i]])
+    result = result + string[positions[i]]
     i += 1
   end
 
