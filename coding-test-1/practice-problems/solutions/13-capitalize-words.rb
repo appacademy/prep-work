@@ -2,6 +2,8 @@
 # spaces, producing a new string that capitalizes the first letter of
 # each word.
 #
+# You'll want to use the `split` and `join` methods.
+#
 # Difficulty: medium.
 
 def capitalize_words(string)
