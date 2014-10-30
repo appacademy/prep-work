@@ -182,6 +182,25 @@ are not really the same:
 puts("abc" == ["a", "b", "c"])
 ```
 
+## Splitting a String; Joining an Array
+
+Sometimes you would like to split a string into several strings, one
+per word:
+
+```ruby
+"this is a sentence".split == ["this", "is", "a", "sentence"]
+```
+
+Likewise, we can do the reverse, and merge an array of strings into
+one string:
+
+```ruby
+# the argument to join is called a **separator**
+["this", "is", "a", "sentence"].join(" ") == "this is a sentence"
+# this puts a ", " between each of the cool things.
+["racecars", "lasers", "aeroplanes"].join(", ") == "racecars, lasers, aeroplanes"
+```
+
 ## Writing Your Own Methods
 
 Oftentimes you'll want to repeat some code multiple times:
@@ -250,7 +269,7 @@ Sometimes a method should do some work, and then **return** a value
 back to the caller.
 
 ```ruby
-# The caller will give the input `number_of_squares`; this method will return an array 
+# The caller will give the input `number_of_squares`; this method will return an array
 # consisting of the squares for numbers from 0 up until the number specified by 'number_of_squares'.
 def first_square_numbers(number_of_squares)
   squares = []
