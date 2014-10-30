@@ -6,7 +6,7 @@
 #
 # Difficulty: hard.
 
-def num_repeats(array)
+def num_repeats(string)
 end
 
 puts("num_repeats(\"abdbc\") == 1: #{num_repeats("abdbc") == 1}")
