@@ -1,6 +1,6 @@
 # Write a method that takes in two numbers. Return the greatest
 # integer that evenly divides both numbers. You may wish to use the
-# `%` modulo operation, which is described in 15-is-prime.
+# `%` modulo operation.
 #
 # Difficulty: medium.
 
