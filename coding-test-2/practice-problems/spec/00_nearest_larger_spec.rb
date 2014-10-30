@@ -38,6 +38,10 @@ describe "#nearest_larger" do
   it "handles a case with an answer > 1 distance to the right" do
     nearest_larger([2,4,3,8], 1).should == 3
   end
+  
+  it "handles a case with 2 answers to the left selecting the nearest" do
+    nearest_larger( [2, 6, 9, 4, 8], 3).should == 2
+  end
 
   it "should return nil if no larger number is found" do
     nearest_larger([2, 6, 4, 8], 3).should == nil
