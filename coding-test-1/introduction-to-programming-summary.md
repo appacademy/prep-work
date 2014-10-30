@@ -132,6 +132,7 @@ puts((i > 100) || (i == 25)) # prints true; the second is true
 * Know how to add/remove elements to/from the end of an array.
 * Know how to add/remove elements to/from the front of an array.
 * Know how to find the number of elements in an array.
+* Know how to use the `join` method.
 
 ```ruby
 # Create an empty list
@@ -167,6 +168,10 @@ puts(some_primes == [3, 5, 7]) # prints true; 2 has been removed
 # Know how to add an element to the front of an array
 some_primes.unshift(2)
 puts(some_primes == [2, 3, 5, 7]) # prints true
+
+# Know how to use the `join` method
+["these", "are", "words"].join(" ") == "these are words"
+["lasers", "racecars", "aeroplanes"].join(", ") == "lasers, racecars, aeroplanes"
 ```
 
 ## Strings
@@ -185,6 +190,12 @@ while i < my_string.length
 
   i = i + 1
 end
+```
+
+You should know how to use the `String#split` method:
+
+```ruby
+"I am a sentence!".split == ["I", "am", "a", "sentence!"]
 ```
 
 ## Loops
