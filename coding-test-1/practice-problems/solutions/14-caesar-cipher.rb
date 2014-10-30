@@ -8,11 +8,20 @@
 #
 # You'll want to use String's `ord` method and Integer's `chr` method.
 # `ord` converts a letter to an ASCII number code. `chr` converts an
-# ASCII number code to a letter. You may also want to use the `%`
-# modulo operation to handle wrapping of "z" to the front of the
-# alphabet.
+# ASCII number code to a letter.
 #
-# Difficulty: hard.
+# You may look at the ASCII printable characters chart:
+#
+#     http://en.wikipedia.org/wiki/ASCII#ASCII_printable_characters
+#
+# Notice that the letter 'a' has code 97, 'b' has code 98, etc., up to
+# 'z' having code 122.
+#
+# You may also want to use the `%` modulo operation to handle wrapping
+# of "z" to the front of the alphabet.
+#
+# Difficulty: hard. Because this problem relies on outside
+# information, we would not give it to you on the timed challenge. :-)
 
 def caesar_cipher(offset, string)
   words = string.split(" ")
