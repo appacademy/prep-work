@@ -223,7 +223,8 @@ except `nil` or `false`), otherwise it returns the right operand (e.g,
 truthy.
 
 Therefore, saying `number == (7 || 13)` is equivalent to saying
-`number == 7`, which is not what you intended.
+`number == 7`, which is not what you intended. That's why we write
+`(number == 7) || (number == 13)`.
 
 The last important logical connective is **negation**, which we use
 the `!` symbol for:
