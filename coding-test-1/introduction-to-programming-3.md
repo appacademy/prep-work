@@ -430,7 +430,8 @@ before the coding challenge**. You want to practice so that you do
 your best.
 
 If you would like to review the Introduction to Programming Minibook,
-a recap of the various topics are available here: [Introduction To Programming Summary][intro-to-programming-summary]
+a recap of the various topics are available here: [Introduction To
+Programming Summary][intro-to-programming-summary].
 
 Good luck!
 
