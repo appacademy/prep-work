@@ -1,6 +1,6 @@
 def nearest_larger(arr, idx)
   diff = 1
-  loop do
+  while true
     left = idx - diff
     right = idx + diff
 
