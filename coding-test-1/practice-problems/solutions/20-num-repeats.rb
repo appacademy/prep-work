@@ -6,12 +6,12 @@
 #
 # Difficulty: hard.
 
-def num_repeats(str)
+def num_repeats(string)
   counts = []
 
   str_idx = 0
-  while str_idx < str.length
-    letter = str[str_idx]
+  while str_idx < string.length
+    letter = string[str_idx]
 
     counts_idx = 0
     while counts_idx < counts.length
