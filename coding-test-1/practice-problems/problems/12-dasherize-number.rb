@@ -1,5 +1,5 @@
 # Write a method that takes in a number and returns a string, placing
-# a single dash before/after each odd digit.
+# a single dash before and after each odd digit.
 #
 # Difficulty: medium.
 
