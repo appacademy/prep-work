@@ -213,9 +213,14 @@ end
 
 If you read `number == (7 || 13)` like English, you might think it
 means "Number is equal to 7 or 13". However, Ruby will not interpret
-your program this way. Instead, by writing `7 || 13`, Ruby will ask if
-one of these is `true`. That's not what you want: you want to use `||`
-to connect two logical statements like `(number == 7)` and `(number == 13)`.
+your program this way. Instead, Ruby will compare `number` to the entire
+expression inside the parentheses: `(7 || 13)`. Inside that expression, the
+`||` operative will try and evaluate the operands on either side of it as a
+boolean. Since in Ruby Fixnums are considered "truthy", the expression
+`(7 || 13)` will be evaluated as `(true || true)` which ultimately evaluates to
+`true`. Thus the above if statement is comparing `number == true`. That's not
+what you want: you want to use `||` to connect two logical statements like
+`(number == 13)`.
 
 The last important logical connective is **negation**, which we use
 the `!` symbol for:
