@@ -201,6 +201,8 @@ one string:
 ["racecars", "lasers", "aeroplanes"].join(", ") == "racecars, lasers, aeroplanes"
 ```
 
+These methods are very useful when you have to work word-by-word.
+
 ## Writing Your Own Methods
 
 Oftentimes you'll want to repeat some code multiple times:
