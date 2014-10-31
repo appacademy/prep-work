@@ -19,7 +19,7 @@ Read all of this document. But here's the executive summary:
 
 ## What is the coding challenge?
 
-We will ask you to solve a short coding challenge composed of 
+We will ask you to solve a short coding challenge composed of
 **four or five coding problems that measure basic programming
 knowledge**. The challenge is timed: **you will have up to 45 minutes
 to complete the challenge**.
@@ -67,8 +67,9 @@ the three parts of Introduction to Programming:
 
 Doing the practice problems will build your familiarity with Ruby, and
 give you a good idea what the level of difficulty is on the coding
-challenge. **Complete all the practice problems before taking the
-coding challenge**. We want you to be well prepared.
+challenge. It is not required, but **we strongly suggest that you
+complete all the practice problems before taking the coding
+challenge**. We want you to be well prepared.
 
 ## What programming language do I write in?
 
