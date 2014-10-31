@@ -211,6 +211,7 @@ i = 0
 while i < 5
   # prints 0, 1, 2, 3, 4
   puts("This is iteration #" + i.to_s + "!")
+  i = i + 1
 end
 
 # print the squares of some primes
@@ -218,6 +219,7 @@ some_primes = [2, 3, 5, 7]
 i = 0
 while i < some_primes.length
   puts(some_primes[i] * some_primes[i])
+  i = i + 1
 end
 
 # Keep prompting user for a number until it is > 20
