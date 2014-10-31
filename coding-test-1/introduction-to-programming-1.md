@@ -18,7 +18,7 @@ and break it down into smaller tasks. You then break down these
 smaller tasks further until you get to the simplest, most basic tasks
 that the computer already understands.
 
-You will use a **programming language** to communicate tasks to your computer. 
+You will use a **programming language** to communicate tasks to your computer.
 A computer program is a series of instructions in the
 programming language. There are many programming languages: we will
 learn **Ruby**. Ruby is an elegant programming language perfect for
@@ -154,6 +154,27 @@ puts(9.fdiv(2))
 The `fdiv` method will give a fractional answer. For our purposes,
 **integer division** will typically be fine.
 
+One last interesting operation is the `%`, or **modulo** operation.
+`n % m` returns the remainder when dividing `n` by `m`:
+
+```ruby
+# 4 divides 11 two times:
+11 / 4 == 2
+# The remainder of dividing 11 by 4 is 3:
+11 % 4 == 3
+```
+
+This is often useful when asking if one number evenly divides a second
+number; in that case the remainder is zero:
+
+```ruby
+# 4 divides 12 three times:
+12 / 4 == 3
+# the remainder is zero:
+12 % 4 == 0
+# therefore 4 divides 12 evenly
+```
+
 ## Variables
 
 Say that we wanted to print a string three times. We could write a
@@ -255,7 +276,7 @@ where the input `name` (called an **argument**) is being **passed
 into** the `puts` method as input. The `puts` method will use the
 input `name` and print it out.
 
-Methods that take no arguments, like `gets`, don't need to include 
+Methods that take no arguments, like `gets`, don't need to include
 parentheses; they're optional. For instance, we can write:
 
 ```ruby
