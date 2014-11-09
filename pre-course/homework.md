@@ -49,7 +49,8 @@ We want you to complete and turn in the
 start with Ruby before moving into Rails, but we want you to have
 played around with Rails a little. Following along with the tutorial,
 build the Twitter clone that the book has you start in Chapter 3 (read
-and follow along with the earlier chapters, too, of course).
+and follow along with the earlier chapters, too, of course) and finish
+through the rest of the book.
 
 [rails-tutorial]: http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
 
