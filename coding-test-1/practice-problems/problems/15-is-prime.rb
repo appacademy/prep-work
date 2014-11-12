@@ -15,7 +15,10 @@
 def is_prime?(number)
 end
 
-puts("is_prime?(2) == true: #{is_prime?(2) == true}")
-puts("is_prime?(3) == true: #{is_prime?(3) == true}")
-puts("is_prime?(4) == false: #{is_prime?(4) == false}")
-puts("is_prime?(9) == false: #{is_prime?(9) == false}")
+# These are tests to check that your code is working. After writing
+# your solution, they should all print true.
+
+puts('is_prime?(2) == true: ' + (is_prime?(2) == true).to_s)
+puts('is_prime?(3) == true: ' + (is_prime?(3) == true).to_s)
+puts('is_prime?(4) == false: ' + (is_prime?(4) == false).to_s)
+puts('is_prime?(9) == false: ' + (is_prime?(9) == false).to_s)

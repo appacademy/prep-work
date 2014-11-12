@@ -9,6 +9,18 @@
 def longest_word(sentence)
 end
 
-puts("longest_word(\"short longest\") == \"longest\": #{longest_word("short longest") == "longest"}")
-puts("longest_word(\"one\") == \"one\": #{longest_word("one") == "one"}")
-puts("longest_word(\"abc def abcde\") == \"abcde\": #{longest_word("abc def abcde") == "abcde"}")
+# These are tests to check that your code is working. After writing
+# your solution, they should all print true.
+
+puts(
+  'longest_word("short longest") == "longest": ' +
+  (longest_word('short longest') == 'longest').to_s
+)
+puts(
+  'longest_word("one") == "one": ' +
+  (longest_word('one') == 'one').to_s
+)
+puts(
+  'longest_word("abc def abcde") == "abcde": ' +
+  (longest_word('abc def abcde') == 'abcde').to_s
+)

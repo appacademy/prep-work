@@ -32,5 +32,14 @@ def most_common_letter(string)
   return [most_common_letter, most_common_letter_count]
 end
 
-puts("most_common_letter(\"abca\") == [\"a\", 2]: #{most_common_letter("abca") == ["a", 2]}")
-puts("most_common_letter(\"abbab\") == [\"b\", 3]: #{most_common_letter("abbab") == ["b", 3]}")
+# These are tests to check that your code is working. After writing
+# your solution, they should all print true.
+
+puts(
+  'most_common_letter("abca") == ["a", 2]: ' +
+  (most_common_letter('abca') == ['a', 2]).to_s
+)
+puts(
+  'most_common_letter("abbab") == ["b", 3]: ' +
+  (most_common_letter('abbab') == ['b', 3]).to_s
+)
