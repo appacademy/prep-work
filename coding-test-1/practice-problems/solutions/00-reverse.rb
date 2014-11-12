@@ -16,6 +16,14 @@ def reverse(string)
   return reversed_string
 end
 
-puts("reverse(\"abc\") == \"cba\": #{reverse("abc") == "cba"}")
-puts("reverse(\"a\") == \"a\": #{reverse("a") == "a"}")
-puts("reverse(\"\") == \"\": #{reverse("") == ""}")
+# These are tests to check that your code is working. After writing
+# your solution, they should all print true.
+puts(
+  'reverse("abc") == "cba": ' + (reverse("abc") == "cba").to_s
+)
+puts(
+  'reverse("a") == "a": ' + (reverse("a") == "a").to_s
+)
+puts(
+  'reverse("") == "": ' + (reverse("") == "").to_s
+)
