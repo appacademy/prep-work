@@ -26,5 +26,8 @@
 def caesar_cipher(offset, string)
 end
 
-puts("caesar_cipher(3, \"abc\") == \"def\": #{caesar_cipher(3, "abc") == "def"}")
-puts("caesar_cipher(3, \"abc xyz\") == \"def abc\": #{caesar_cipher(3, "abc xyz") == "def abc"}")
+# These are tests to check that your code is working. After writing
+# your solution, they should all print true.
+
+puts('caesar_cipher(3, "abc") == "def": ' + (caesar_cipher(3, 'abc') == 'def').to_s)
+puts('caesar_cipher(3, "abc xyz") == "def abc": ' + (caesar_cipher(3, 'abc xyz') == 'def abc').to_s)
