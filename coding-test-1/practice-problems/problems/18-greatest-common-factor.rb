@@ -10,6 +10,15 @@ end
 # These are tests to check that your code is working. After writing
 # your solution, they should all print true.
 
-puts('greatest_common_factor(3, 9) == 3: ' + (greatest_common_factor(3, 9) == 3).to_s)
-puts('greatest_common_factor(16, 24) == 8: ' + (greatest_common_factor(16, 24) == 8).to_s)
-puts('greatest_common_factor(3, 5) == 1: ' + (greatest_common_factor(3, 5) == 1).to_s)
+puts(
+  'greatest_common_factor(3, 9) == 3: ' +
+  (greatest_common_factor(3, 9) == 3).to_s
+)
+puts(
+  'greatest_common_factor(16, 24) == 8: ' +
+  (greatest_common_factor(16, 24) == 8).to_s
+)
+puts(
+  'greatest_common_factor(3, 5) == 1: ' +
+  (greatest_common_factor(3, 5) == 1).to_s
+)
