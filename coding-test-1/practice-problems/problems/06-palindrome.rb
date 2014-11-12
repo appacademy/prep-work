@@ -8,6 +8,9 @@
 def palindrome?(string)
 end
 
-puts("palindrome?(\"abc\") == false: #{palindrome?("abc") == false}")
-puts("palindrome?(\"abcba\") == true: #{palindrome?("abcba") == true}")
-puts("palindrome?(\"z\") == true: #{palindrome?("z") == true}")
+# These are tests to check that your code is working. After writing
+# your solution, they should all print true.
+
+puts('palindrome?("abc") == false: ' + (palindrome?('abc') == false).to_s)
+puts('palindrome?("abcba") == true: ' + (palindrome?('abcba') == true).to_s)
+puts('palindrome?("z") == true: ' + (palindrome?('z') == true).to_s)
