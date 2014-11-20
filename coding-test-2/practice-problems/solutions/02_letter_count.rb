@@ -1,11 +1,9 @@
 def letter_count(str)
-  counts = {}
+  str_array = str.split('')
+  hashorama = Hash.new(0)
 
-  str.each_char do |char|
-    next if char == " "
-    counts[char] = 0 unless counts.include?(char)
-    counts[char] += 1
+  str_array.each do |x|
+    hashorama[x] += 1 unless x == " "
   end
-
-  counts
+  puts hashorama
 end
