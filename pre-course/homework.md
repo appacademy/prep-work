@@ -10,7 +10,8 @@ be ready for class when it starts.
 
 ## Due-date (Only relevant for accepted students)
 
-The prep work is due 3 weeks before your cycle begins.
+Test-First Ruby and Event Manager are due 3 weeks before your cycle
+begins. The Twitter clone is due the Friday before your cycle begins.
 
 ## Test-First Ruby (Alex Chaffee)
 
