@@ -4,5 +4,5 @@ def letter_count(str)
   str.each_char do |x|
     counts[x] += 1 unless x == " "
   end
-  return counts
+  counts
 end
