@@ -23,6 +23,10 @@ class NumbersClass
   def loneliest_number
     1
   end
+  
+  def favorite_number
+    3
+  end
 
   def numbers
     [favorite_nmber, loneliest_number]
