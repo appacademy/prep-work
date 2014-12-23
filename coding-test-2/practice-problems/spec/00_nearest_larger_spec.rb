@@ -6,7 +6,7 @@ require 'rspec'
 # satisfy:
 #
 # (a) `arr[i] < arr[j]`, AND
-# (b) there is no `j2` closer to `i` than `j` where `arr[i] < arr[j]`.
+# (b) there is no `j2` closer to `i` than `j` where `arr[i] < arr[j2]`.
 #
 # In case of ties (see example below), choose the earliest (left-most)
 # of the two indices. If no number in `arr` is larger than `arr[i]`,
