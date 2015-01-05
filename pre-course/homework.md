@@ -26,7 +26,7 @@ you need a refresher on RSpec).
 
 The required exercises are 0-12 and 14. To begin work, go to the
 github page and click to download the ZIP file. Extract the ZIP and
-open the contained index.html. This will contain further instructions
+open the contained README.md. This will contain further instructions
 as to how to proceed.
 
 When you're finished with Test First Ruby, send it to us (instructions
