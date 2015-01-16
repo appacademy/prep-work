@@ -13,11 +13,11 @@ require 'rspec'
 # Difficulty: 3/5
 
 describe "#wonky_coins" do
-  it "handles a simple case" do
+  it "handles a coin of value 1" do
     wonky_coins(1).should == 3
   end
 
-  it "handles a larger case" do
+  it "handles a coin of value 5" do
     wonky_coins(5).should == 11
     # 11
     # => [2, 1, 1]
@@ -25,8 +25,11 @@ describe "#wonky_coins" do
     # => [[[0, 0, 0], 0, 0], [0, 0, 0], [0, 0, 0]]
   end
 
+  it "handles a coin of value 6" do
+    wonky_coins(6).should == 15
+  end
+
   it "handles being given the zero coin" do
     wonky_coins(0).should == 1
   end
-
 end
