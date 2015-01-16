@@ -24,6 +24,10 @@ describe "#wonky_coins" do
     # => [[1, 0, 0], [0, 0, 0], [0, 0, 0]]
     # => [[[0, 0, 0], 0, 0], [0, 0, 0], [0, 0, 0]]
   end
+  
+  it "handles an even larger case: coin value of 6" do
+    wonky_coins(6).should == 15
+  end
 
   it "handles a coin of value 6" do
     wonky_coins(6).should == 15
