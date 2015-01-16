@@ -34,7 +34,7 @@ class NumbersClass
 end
 ```
 
-```ruby
+```
 [3] pry(main)> nc = NumbersClass.new
 => #<NumbersClass:0x007ff9dc12c608>
 [4] pry(main)> nc.numbers
@@ -52,7 +52,7 @@ variable or a method. It tells you that it was looking for the method
 
 Here's a variation on your standard NameError:
 
-```ruby
+```
 [3] pry(main)> UnloadedClass.new
 NameError: uninitialized constant UnloadedClass
         from: (pry):3:in `__pry__'
@@ -73,7 +73,7 @@ This is similar to NameError; in fact it's a subclass. This is thrown
 when it's clear the user wanted to call a method (didn't try to look up
 a variable) that doesn't exist:
 
-```ruby
+```
 [1] pry(main)> "my string".my_fantasy_method
 NoMethodError: undefined method `my_fantasy_method' for "my string":String
         from: (pry):1:in `__pry__'
@@ -84,7 +84,7 @@ Again, Ruby tells us the method name it looked up, and the object.
 A particularly common error occurs when a variable is `nil` when we
 don't expect this
 
-```ruby
+```
 [5] pry(main)> my_array[0] # what if my_array == nil?
 NoMethodError: undefined method `[]' for nil:NilClass
         from: (pry):2:in `__pry__'
@@ -98,7 +98,7 @@ method we want.
 If we don't give a method the right number of arguments, we will get
 an exception thrown at us:
 
-```ruby
+```
 [12] pry(main)> [1, 2, 3].shuffle("unwanted argument")
 ArgumentError: wrong number of arguments (1 for 0)
         from: (pry):9:in `shuffle'
@@ -114,7 +114,7 @@ passed 1 argument when 0 were expected.
 A `TypeError` may be thrown if you pass the wrong type of thing to a
 method. For instance, numbers can only add other numbers:
 
-```ruby
+```
 [8] pry(main)> 2 + ""
 TypeError: String can't be coerced into Fixnum
         from: (pry):8:in `+'
@@ -142,7 +142,7 @@ None of these operations make sense; all of them will throw a
 
 Load errors are common:
 
-```ruby
+```
 [2] pry(main)> require 'primes.rb'
 LoadError: cannot load such file -- primes.rb
 ```
@@ -155,13 +155,13 @@ file in your project, but you forgot the initial './'. "Relative"
 includes are used to include files that are inside your project, you
 write them like this:
 
-```ruby
+```
 [2] pry(main)> require './primes.rb'
 ```
 
 Of course, the file can be be in a subdirectory:
 
-```ruby
+```
 [2] pry(main)> require './path/to/source/file/primes.rb'
 ```
 
@@ -182,7 +182,7 @@ Consider a source file that fails to close a do block:
 ```
 When you load this source file, you'll get:
 
-```ruby
+```
 [1] pry(main)> require './test.rb'
 SyntaxError: /Users/ruggeri/test.rb:3: syntax error, unexpected $end, expecting keyword_end
         from: /Users/ruggeri/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/site_ruby/1.9.1/rubygems/custom_require.rb:36:in `require'
@@ -203,7 +203,7 @@ end
 end # one too many
 ```
 
-```ruby
+```
 [2] pry(main)> load './test.rb'
 SyntaxError: /Users/ruggeri/test.rb:4: syntax error, unexpected keyword_end, expecting $end
 end # one too many
