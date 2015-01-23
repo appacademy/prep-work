@@ -12,7 +12,7 @@ def factorial(n)
 
   result = 1
   while n > 0
-    result = result * n
+    result *= n
 
     n -= 1
   end
