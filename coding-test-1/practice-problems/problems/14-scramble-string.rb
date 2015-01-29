@@ -15,6 +15,6 @@ puts(
   (scramble_string("abcd", [3, 1, 2, 0]) == "dbca").to_s
 )
 puts(
-  'scramble_string("markov", [5, 3, 1, 4, 2, 0]) == "vkaorm"): ' +
-  (scramble_string("markov", [5, 3, 1, 4, 2, 0]) == "vkaorm").to_s
+  'scramble_string("markov", [5, 3, 1, 4, 2, 0]) == "vroakm"): ' +
+  (scramble_string("markov", [5, 3, 1, 4, 2, 0]) == "vroakm").to_s
 )
