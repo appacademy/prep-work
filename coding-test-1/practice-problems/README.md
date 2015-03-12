@@ -24,4 +24,4 @@ Programming Summary][intro-to-programming-summary].
 problems.** See our [setup instructions](../setup.md) for instructions
 on how to use nitrous.io.
 
-[intro-to-programming-summary]: ./introduction-to-programming-summary.md
+[intro-to-programming-summary]: ../introduction-to-programming-summary.md
