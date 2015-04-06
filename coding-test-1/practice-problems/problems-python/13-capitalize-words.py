@@ -3,7 +3,7 @@
 # each word.
 #
 # You'll want to use the `split` and `join` methods. Also, the String
-# method `upcase`, which converts a string to all upper case will be
+# method `upper`, which converts a string to all upper case will be
 # helpful.
 #
 # Difficulty: medium.
