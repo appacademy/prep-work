@@ -16,7 +16,7 @@ def is_prime(number):
 
     idx += 1
 
-  return true
+  return True
 
 def nth_prime(n):
   pass
