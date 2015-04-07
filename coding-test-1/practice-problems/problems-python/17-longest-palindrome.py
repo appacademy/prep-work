@@ -18,7 +18,7 @@
 
 def palindrome(string):
   i = 0
-  while i < string.length:
+  while i < len(string):
     if string[i] != string[(len(string) - 1) - i]:
       return False
 
