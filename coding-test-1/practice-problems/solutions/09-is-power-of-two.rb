@@ -8,7 +8,7 @@
 # Difficulty: medium.
 
 def is_power_of_two?(num)
-  if num == 0
+  if num < 1
     return false
   end
 
