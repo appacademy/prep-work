@@ -22,6 +22,26 @@ def greatest_common_factor(number1, number2)
   end
 end
 
+# Here is an alternative algorithm (Euclidean Algorithm)
+# to compute the greatest common factor (in recursive form).
+
+def greatest_common_factor_2(number1,number2)
+  if number1 < 1 || number2 < 1
+    return nil
+    
+  elsif number1 % number2 == 0
+    return number2
+  elsif number2 % number1 == 0
+    return number1
+    
+  elsif number1 > number2
+    return greatest_common_factor_2(number1%number2, number2)
+  elsif number2 > number1
+    return greatest_common_factor_2(number2%number1, number1)
+  end
+  
+end
+
 # These are tests to check that your code is working. After writing
 # your solution, they should all print true.
 
