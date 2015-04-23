@@ -12,7 +12,7 @@ At this point, we've seen a number of **methods**:
 * `gets`
 * `to_i`
 * `to_s`
-* `chomps`
+* `chomp`
 
 Methods are the "verbs" of Ruby. Numbers and strings are the
 "nouns". When you call a method, it does something to one or more
