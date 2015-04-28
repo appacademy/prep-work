@@ -20,8 +20,8 @@ Programming Summary][intro-to-programming-summary].
 
 ## Setup
 
-**We strongly recommend you use nitrous.io to do the practice
+**We strongly recommend you use Cloud9 (c9.io) to do the practice
 problems.** See our [setup instructions](../setup.md) for instructions
-on how to use nitrous.io.
+on how to use Cloud9.
 
 [intro-to-programming-summary]: ../introduction-to-programming-summary.md
