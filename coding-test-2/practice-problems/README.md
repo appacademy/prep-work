@@ -1,29 +1,38 @@
 # Practice Problems II
 
-These practice problems are meant to be downloaded, written, and run
-on your own computer. You can download this whole prep-work
-repository, including the practice problems,
-[in ZIP format][repo-zip].
+We recommend that you continue to use the Cloud9 development
+environment. See these [setup instructions][c9-setup].
+
+[c9-setup]: ../../coding-test-1/setup.md
+
+Alternatively, you might prefer to setup Ruby on your own computer. If
+you choose to do so, you can download this whole prep-work repository,
+including the practice problems, in [ZIP format][repo-zip].
 
 [repo-zip]: https://github.com/appacademy/prep-work/archive/master.zip
 
 ## Practice Problem Instructions
 
-The instructions for the practice problems are written inside the spec
-files (in the `spec` directory); check those for instructions on what
-you are supposed to do.
-
-First, in the `coding-test-2/practice-problems` directory, run `bundle
-install`. This will install the Ruby libraries needed to run the
-specs.
+First, open a terminal at the
+ `prep-work/coding-test-2/practice-problems` directory. If you are using
+Cloud9, the easiest way to do this is to right-click on that directory
+in the file tree and select "Open Terminal Here". Run `bundle install`.
+This will install the Ruby libraries needed to run the specs.
 
 You can then run the specs for an individual problem like so:
 
     bundle exec rspec spec/00_nearest_larger_spec.rb
 
+The instructions for the practice problems are written inside the spec
+files (in the `spec` directory); check those for instructions on what
+you are supposed to do.
+
 You will write your code in the corresponding files in `lib` (e.g.,
 `lib/00_nearest_larger.rb`). I've filled them out with a blank method
-for you. You'll need to write the code to make the specs pass.
+for you. You'll need to write the code to make the specs pass. In
+Cloud9, you'll probably want to keep one text editor panel open to write
+your code, and a terminal panel open to run the specs and read the
+specs' output.
 
 Work through the problems one by one; when you complete writing the
 code, run the spec to check your work. Make sure to look at the
