@@ -48,9 +48,9 @@ complete all the codeacademy lessons before taking the coding
 challenge**. We want you to be well prepared.
 
 [codeacademy-1]: http://www.codecademy.com/courses/ruby-beginner-en-qgwrx
-[codeacademy-2]:
-[codeacademy-3]:
-[codeacademy-challenges]:
+[codeacademy-2]: http://www.codecademy.com/courses/ruby-beginner-en-n06ri
+[codeacademy-3]: http://www.codecademy.com/courses/ruby-beginner-en-pjd6e
+[codeacademy-challenges]: http://www.codecademy.com/courses/ruby-beginner-en-1cq0t
 
 
 ## What programming language do I write in?
