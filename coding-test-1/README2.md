@@ -8,14 +8,9 @@ succeed on the challenge.
 
 ## tl;dr
 
-Read all of this document. But here's the executive summary:
-
-0. Read the **[Introduction to Programming][intro-to-programming-1]**.
-0. Do the **[practice problems][practice-problems]**. Review the
-   solutions.
-0. When you're well prepared (and not before), start the challenge! We
-   don't give any preference to applicants based on how soon they
-   start the challenge, so take your time to prepare properly!
+Read all of this document.  When you're well prepared (and not before),
+start the challenge! We don't give any preference to applicants based
+on how soon they start the challenge, so take your time to prepare properly!
 
 ## What is the coding challenge?
 
