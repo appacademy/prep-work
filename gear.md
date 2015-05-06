@@ -113,19 +113,3 @@ If not, you can use a USB wireless interface. The
 though I don't have personal experience with it.
 
 [usb-n53]: http://www.amazon.com/Asus-Wireless-N-Graphical-Interface-USB-N53/dp/B005SAKW9G
-
-## No Laptop: It's Okay
-
-You can get through App Academy without a laptop, but it's a little
-harder.
-
-Our space is open 24/7, and people often live at the office. You can
-use our machines as much as you like.
-
-However, you'll want to be able to hack at all times. If you're living
-off campus, you'll want to be able to try things out at home. You'll
-be in a better position to immerse yourself if you have your own
-laptop.
-
-Personally, I would much rather do the course with a laptop than
-without. That said, it can be done.
