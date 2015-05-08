@@ -1,3 +1,7 @@
+**Note**: These practice problems will not be found on codeacademy. Instead you
+will be running them through a web based development environment. Please see the
+[setup ruby instructions][setup] on how to get started.
+
 # Practice Problems II
 
 These practice problems are meant to be downloaded, written, and run
