@@ -9,11 +9,9 @@ all of the practice problems from there.
 
 # Practice Problems II
 
-These practice problems are meant to be downloaded, written, and run through the
-web based development environment. You can download this whole prep-work
-repository, including the practice problems, [in ZIP format][repo-zip].
-
-[repo-zip]: https://github.com/appacademy/prep-work/archive/master.zip
+These practice problems are meant to be written, and run through the
+web based development environment. Please see the following instructions to get
+started.
 
 ## Practice Problem Instructions
 
