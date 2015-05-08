@@ -3,6 +3,9 @@
 If you've already setup ruby, you may skip this section. Otherwise,
 please see the [setup instructions][setup] document.
 
+**Note**: These practice problems will not be found on codeacademy - you
+**must** setup the web based ruby development environment.
+
 [setup]: ./setup.md
 
 # Required homework
