@@ -1,13 +1,17 @@
-**Note**: These practice problems will not be found on codeacademy. Instead you
-will be running them through a web based development environment. Please see the
-[setup ruby instructions][setup] on how to get started.
+If you haven't already done so, follow [these instructions][setup] to setup a
+web based ruby development environment. Once installed you will be able to run
+all of the practice problems from there.
+
+**Note**: These practice problems will not be found on codeacademy - you
+**must** setup the web based ruby development environment.
+
+[setup]: ../../coding-test-1/setup.md
 
 # Practice Problems II
 
-These practice problems are meant to be downloaded, written, and run
-on your own computer. You can download this whole prep-work
-repository, including the practice problems,
-[in ZIP format][repo-zip].
+These practice problems are meant to be downloaded, written, and run through the
+web based development environment. You can download this whole prep-work
+repository, including the practice problems, [in ZIP format][repo-zip].
 
 [repo-zip]: https://github.com/appacademy/prep-work/archive/master.zip
 
