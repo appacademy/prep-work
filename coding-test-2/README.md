@@ -5,8 +5,12 @@ invited to take the second coding challenge. This one will test your
 ability to apply basic programming principles to solve somewhat more
 complicated problems.
 
+**Note**: These practice problems will not be found on codeacademy. Instead you
+will be running them through a web based development environment. Please see the
+[setup ruby instructions][setup] on how to get started.
+
 * [Instructions][instructions]
-* [Setup Ruby][setup] (recommended)
+* [Setup Ruby][setup]
 * [Chris Pine's Learn to Program][chris-pine]
     * Great for beginners; the first eight chapters will be great prep.
 * [Ruby Monk][ruby-monk]

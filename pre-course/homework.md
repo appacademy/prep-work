@@ -1,3 +1,10 @@
+## Ruby Setup
+
+If you've already setup ruby, you may skip this section. Otherwise,
+please see the [setup instructions][setup] document.
+
+[setup]: ./setup.md
+
 # Required homework
 
 First, do the [required readings][readings].
@@ -74,5 +81,5 @@ When you've finished building the Event Manager, send it to us
 When done, please zip your Test First Ruby folder (complete with
 instructions, specs, and your solutions) and mail it to us at
 [admissions@appacademy.io](mailto:admissions@appacademy.io). Please
-also attach your Event Manager. If you are completing this after enrolling for the class, 
-please send a link to your Twitter clone the Friday before your cohort begins. 
+also attach your Event Manager. If you are completing this after enrolling for the class,
+please send a link to your Twitter clone the Friday before your cohort begins.
