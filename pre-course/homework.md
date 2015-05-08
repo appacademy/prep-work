@@ -1,9 +1,19 @@
+This prepwork constitutes a basic introduction to programming designed to be
+accessible to everyone. It contains some selected readings to bring you up to
+speed on Ruby, plus some exercises for you to complete. All told, we expect the
+prepwork to take about 15hrs.
+
+We believe that the time you invest in learning Ruby will be time well spent:
+the prep work constitutes a self-contained introductory course in programming,
+giving you skills that you will be able to apply to other parts of your life.
+
+
 ## Ruby Setup
 
 If you've already setup ruby, you may skip this section. Otherwise,
 please see the [setup instructions][setup] document.
 
-**Note**: These practice problems will not be found on codeacademy - you
+**Note**: The homework problems **will not** be found on Codeacademy - you
 **must** setup the web based ruby development environment.
 
 [setup]: ./setup.md
@@ -83,6 +93,6 @@ When you've finished building the Event Manager, send it to us
 
 When done, please zip your Test First Ruby folder (complete with
 instructions, specs, and your solutions) and mail it to us at
-[admissions@appacademy.io](mailto:admissions@appacademy.io). Please
-also attach your Event Manager. If you are completing this after enrolling for the class,
+[admissions@appacademy.io](mailto:admissions@appacademy.io). Please also attach
+your Event Manager. If you are completing this after enrolling for the class,
 please send a link to your Twitter clone the Friday before your cohort begins.
