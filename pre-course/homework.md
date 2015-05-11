@@ -16,7 +16,7 @@ please see the [setup instructions][setup] document.
 **Note**: The homework problems **will not** be found on Codeacademy - you
 **must** setup the web based ruby development environment.
 
-[setup]: ./setup.md
+[setup]: ../coding-test-1/setup.md
 
 # Required homework
 
