@@ -33,7 +33,7 @@ See the [setup instructions][setup].
 
 ## Your First Ruby Programs: Numbers and Strings
 
-Let's write our very first Ruby program. In the Nitrous.io text
+Let's write our very first Ruby program. In the text
 editor, write the following:
 
 ```ruby
