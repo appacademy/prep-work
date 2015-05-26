@@ -21,6 +21,8 @@ These practice problems are meant to be written, and run through the
 web based development environment. Please see the following instructions to get
 started.
 
+[repo-zip]: https://github.com/appacademy/prep-work/archive/master.zip
+
 ## Practice Problem Instructions
 
 First, open a terminal at the
