@@ -32,7 +32,7 @@ students until the course begins**. The assessment is for the
 students' benefit; it is designed to let incoming students know
 whether they are prepared for the class. In a sense, it cannot be
 cheated; underprepared students who don't get help early hurt their
-chances of completing the course successfuly.
+chances of completing the course successfully.
 
 The assessment mimics the practice problems: it consists of four
 problems and their accompanying test specs. Your job is to get the
@@ -42,7 +42,7 @@ specs to "go green" and pass (just like with the practice problems).
 
 ## Assessments Generally
 
-Completing assessments successfuly is really important in providing
+Completing assessments successfully is really important in providing
 you feedback and helping you to track your progress through the
 course. They are meant to help by letting you know how you are
 performing in the course.
