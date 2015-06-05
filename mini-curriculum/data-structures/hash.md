@@ -11,10 +11,11 @@
 
 ## What's a Hash?
 
-A Hash is a collection of key-value pairs. You can think of a hash like an
-array, but instead of the keys being incrementing integer indices (i.e., 0, 1,
-2, 3, etc.), the keys are arbitrary, and can be any kind of object. From ruby 1.9.3
-onwards, Hashes enumerate their values in the order that the corresponding keys were inserted.
+A Hash is a collection of key-value pairs. You can think of a hash like
+an array, but instead of the keys being incrementing integer indices
+(i.e., 0, 1, 2, 3, etc.), the keys are arbitrary, and can be any kind of
+object. From ruby 1.9.3 onwards, Hashes enumerate their values in the
+order that the corresponding keys were inserted.
 
 You can create a hash a couple different ways:
 
@@ -34,7 +35,15 @@ capitals = { 'New York' => 'Albany', 'California' => 'Sacramento' }
 capitals['New York'] # => 'Albany'
 ```
 
-### `Hash#.each`
+**Note:** Any object can be used as a key in a Ruby hash. However,
+`"strings"` and `:symbols` are most common. You don't need to know
+exactly how Ruby symbols work to understand hashes; for now, just be
+aware that:
+  0. Symbols are like strings
+  0. Symbols are preferred over strings for keys in a hash
+  0. Symbols are written with a leading colon.
+
+### `Hash#each`
 
 We can also *iterate* over the elements of the hash, just like we did
 with array:
