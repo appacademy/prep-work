@@ -20,3 +20,5 @@ been sent an acceptance letter**.
 [2015-04-20-sf]: https://groups.google.com/a/appacademy.io/forum/#!forum/2015-04-20-sf
 [2015-05-25-ny]: https://groups.google.com/a/appacademy.io/forum/#!forum/2015-05-25-ny
 [2015-06-22-sf]: https://groups.google.com/a/appacademy.io/forum/#!forum/2015-06-22-sf
+[2015-07-27-ny]: https://groups.google.com/a/appacademy.io/forum/#!forum/2015-07-27-ny
+[2015-08-24-sf]: https://groups.google.com/a/appacademy.io/forum/#!forum/2015-08-24-sf
