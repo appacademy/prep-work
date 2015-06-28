@@ -11,6 +11,7 @@ been sent an acceptance letter**.
 * [2015-04-20 (SF)][2015-04-20-sf]
 * [2015-05-25 (NY)][2015-05-25-ny]
 * [2015-06-22 (SF)][2015-06-22-sf]
+* [2015-08-24 (SF)][2015-08-24-sf]
 
 
 [2014-12-08-sf]: https://groups.google.com/forum/?hl=en#!forum/aa-2014-12-08-sf
@@ -20,3 +21,4 @@ been sent an acceptance letter**.
 [2015-04-20-sf]: https://groups.google.com/a/appacademy.io/forum/#!forum/2015-04-20-sf
 [2015-05-25-ny]: https://groups.google.com/a/appacademy.io/forum/#!forum/2015-05-25-ny
 [2015-06-22-sf]: https://groups.google.com/a/appacademy.io/forum/#!forum/2015-06-22-sf
+[2015-08-24-sf]: https://groups.google.com/a/appacademy.io/forum/#!forum/2015-08-24-sf
