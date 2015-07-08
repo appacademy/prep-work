@@ -1,5 +1,3 @@
-# Coding Challenge I
-
 Hi there! The next step in your application process is the online
 coding challenge. Before you start it, look over the prepwork we've
 prepared for you. Especially if you're new to coding, this prepwork is

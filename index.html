@@ -7,9 +7,9 @@ layout: default
   <h1 class="page-heading">Preparatory Materials</h1>
 
   <ul class="materials-list">
-    <li><a href="{{ "/coding-test-1" | prepend: site.baseurl }}">Coding Challenge I</a></li>
-    <li><a href="{{ "/coding-test-2" | prepend: site.baseurl }}">Coding Challenge II</a></li>
-    <li><a href="{{ "/pre-course" | prepend: site.baseurl }}">Post-Acceptance Prepwork</a></li>
+    {% for section in site.data.sections %}
+      <li><a href="{{ section.url | prepend: site.baseurl }}">{{ section.title }}</a></li>
+    {% endfor %}
   </ul>
 
 </div>

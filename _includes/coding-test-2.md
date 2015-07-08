@@ -1,5 +1,3 @@
-# Coding Challenge II
-
 After you complete the first coding challenge successfully, you'll be
 invited to take the second coding challenge. This one will test your
 ability to apply basic programming principles to solve somewhat more

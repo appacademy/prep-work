@@ -1,5 +1,3 @@
-# Post-Acceptance Prepwork
-
 Hey all! **We're super excited that soon you'll be coming to App
 Academy!**
 
