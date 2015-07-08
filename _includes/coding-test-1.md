@@ -36,7 +36,7 @@ challenge.
 
 Please see the [setup instructions][setup] document.
 
-[setup]: ./setup.md
+[setup]: ./setup
 
 ## How do I prepare for the challenge?
 
@@ -53,10 +53,10 @@ know how to program**:
 * **[Introduction To Programming III][intro-to-programming-3]**
 * **[Introduction To Programming Summary][intro-to-programming-summary]**
 
-[intro-to-programming-1]: ./introduction-to-programming-1.md
-[intro-to-programming-2]: ./introduction-to-programming-2.md
-[intro-to-programming-3]: ./introduction-to-programming-3.md
-[intro-to-programming-summary]: ./introduction-to-programming-summary.md
+[intro-to-programming-1]: ./introduction-to-programming-1
+[intro-to-programming-2]: ./introduction-to-programming-2
+[intro-to-programming-3]: ./introduction-to-programming-3
+[intro-to-programming-summary]: ./introduction-to-programming-summary
 
 **Second, we provide practice problems**. Do these after you have read
 the three parts of Introduction to Programming:

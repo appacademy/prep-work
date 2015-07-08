@@ -29,7 +29,7 @@ expressive, which makes it a great choice for advanced programmers.
 
 See the [setup instructions][setup].
 
-[setup]: ./setup.md
+[setup]: ../setup
 
 ## Your First Ruby Programs: Numbers and Strings
 
@@ -456,4 +456,4 @@ In the real world, it is often simplest to write `gets.chomp`.
 You're ready for the [second chapter][intro-to-programming-2] of
 Introduction to Programming!
 
-[intro-to-programming-2]: ./introduction-to-programming-2.md
+[intro-to-programming-2]: ../introduction-to-programming-2

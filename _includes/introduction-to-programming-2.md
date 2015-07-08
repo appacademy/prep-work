@@ -409,4 +409,4 @@ an array and do something with each of them.
 You're ready for the [third chapter][intro-to-programming-3] of
 Introduction to Programming!
 
-[intro-to-programming-3]: ./introduction-to-programming-3.md
+[intro-to-programming-3]: ../introduction-to-programming-3
