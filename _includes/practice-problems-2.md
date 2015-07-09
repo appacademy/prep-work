@@ -1,3 +1,5 @@
+[Download][download-problems]
+
 If you haven't already done so, follow [these instructions][setup] to setup a
 web based ruby development environment. Once installed you will be able to run
 all of the practice problems from there.
@@ -5,6 +7,7 @@ all of the practice problems from there.
 **Note**: These practice problems will not be found on codeacademy - you
 **must** setup the web based ruby development environment.
 
+[download-problems]: ../practice-problems-2.zip
 [setup]: ../../coding-test-1/setup
 
 # Practice Problems II

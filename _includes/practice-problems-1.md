@@ -25,4 +25,4 @@ problems.** See our [setup instructions](../setup) for instructions
 on how to use Cloud9.
 
 [intro-to-programming-summary]: ../introduction-to-programming-summary
-[download-problems]: ../practice-problems.zip
+[download-problems]: ../practice-problems-1.zip
