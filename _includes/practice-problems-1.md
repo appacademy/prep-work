@@ -1,3 +1,5 @@
+[Download][download-problems]
+
 These questions are meant to prepare you for the coding challenge.
 **You should read each question and try to solve them for yourself**.
 Solutions are provided, look at those after making your attempt at the
@@ -23,3 +25,4 @@ problems.** See our [setup instructions](../setup) for instructions
 on how to use Cloud9.
 
 [intro-to-programming-summary]: ../introduction-to-programming-summary
+[download-problems]: ../practice-problems.zip
