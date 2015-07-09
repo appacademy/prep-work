@@ -24,5 +24,5 @@ will be running them through a web based development environment. Please see the
 [setup]: ../coding-test-1/setup
 [chris-pine]: http://filepi.com/i/kF0llED
 [ruby-monk]: http://rubymonk.com
-[mini-curriculum]: ../mini-curriculum/README.md
+[mini-curriculum]: ../mini-curriculum
 [practice-problems]: ./practice-problems
