@@ -1,5 +1,3 @@
-# Introduction to Programming: II
-
 ## What Are Methods?
 
 At this point, we've seen a number of **methods**:

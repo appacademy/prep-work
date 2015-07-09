@@ -1,5 +1,3 @@
-# Introduction to Programming: III
-
 ## Adding or Removing From Arrays
 
 Arrays would be boring if you could never change them. Luckily, there

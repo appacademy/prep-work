@@ -1,5 +1,3 @@
-# Introduction to Programming: Summary
-
 You should first read (or at least skim) the Introduction to
 Programming pages. Here's a quick recap of the various concepts you'll
 want to be familiar with after reading.

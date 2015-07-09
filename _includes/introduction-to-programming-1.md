@@ -1,5 +1,3 @@
-# Introduction to Programming: I
-
 ## Purpose
 
 This minibook is intended to cover everything you need to learn to

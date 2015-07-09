@@ -1,5 +1,3 @@
-# Ruby Setup
-
 ## Cloud9 (c9.io)
 
 It is not required to install Ruby on your own machine before the
