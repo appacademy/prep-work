@@ -5,13 +5,13 @@ all of the practice problems from there.
 **Note**: These practice problems will not be found on codeacademy - you
 **must** setup the web based ruby development environment.
 
-[setup]: ../../coding-test-1/setup.md
+[setup]: ../../coding-test-1/setup
 
 # Practice Problems II
 We recommend that you continue to use the Cloud9 development
 environment. See these [setup instructions][c9-setup].
 
-[c9-setup]: ../../coding-test-1/setup.md
+[c9-setup]: ../../coding-test-1/setup
 
 Alternatively, you might prefer to setup Ruby on your own computer. If
 you choose to do so, you can download this whole prep-work repository,

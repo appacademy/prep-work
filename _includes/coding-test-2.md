@@ -20,8 +20,8 @@ will be running them through a web based development environment. Please see the
 * [AppAcademy: Mini Curriculum][mini-curriculum]
 * **[Example practice problems][practice-problems]**
 
-[instructions]: ./instructions.md
-[setup]: ../coding-test-1/setup.md
+[instructions]: ./instructions
+[setup]: ../coding-test-1/setup
 [chris-pine]: http://filepi.com/i/kF0llED
 [ruby-monk]: http://rubymonk.com
 [mini-curriculum]: ../mini-curriculum/README.md

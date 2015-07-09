@@ -1,5 +1,3 @@
-# Coding Challenge II
-
 Congratulations on completing the first coding test! The first quiz
 tested you on the basics of programming. This second challenge is
 meant to measure your ability to solve problems with code.
@@ -20,9 +18,9 @@ You may also answer the challenge in Python, if you choose. If you do
 not know Python, please complete the challenge in Ruby.
 
 If you know another language and would strongly prefer to answer in
-that, please contact [us](mailto:admissions@appacademy.io).
+that, please [contact us](mailto:admissions@appacademy.io).
 
-#### Outside sources
+## Outside sources
 
 **Please** do not search Google for answers to the
 problems. **Please do not post our problems to the internet**.
