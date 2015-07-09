@@ -436,4 +436,4 @@ Programming Summary][intro-to-programming-summary].
 Good luck!
 
 [intro-to-programming-summary]: ../introduction-to-programming-summary
-[practice-problems]: ./practice-problems
+[practice-problems]: ../practice-problems

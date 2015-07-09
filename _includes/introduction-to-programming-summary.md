@@ -6,7 +6,7 @@ Make sure to test your skills with the
 [practice-problems][practice-problems] before starting the coding
 challenge!
 
-[practice-problems]: ./practice-problems
+[practice-problems]: ../practice-problems
 
 ## Integers
 
