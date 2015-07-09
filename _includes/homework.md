@@ -16,7 +16,7 @@ please see the [setup instructions][setup] document.
 **Note**: The homework problems **will not** be found on Codeacademy - you
 **must** setup the web based ruby development environment.
 
-[setup]: ../coding-test-1/setup.md
+[setup]: ../../coding-test-1/setup
 
 # Required homework
 
@@ -26,7 +26,7 @@ Please work on and submit these exercises before you arrive
 (submission details are below). **These are required**; we want you to
 be ready for class when it starts.
 
-[readings]: ./readings.md
+[readings]: ../readings
 
 ## Due-date (Only relevant for accepted students)
 

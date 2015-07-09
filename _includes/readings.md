@@ -1,5 +1,3 @@
-# Required Preflight Readings
-
 We have some required introductory readings. Make sure to read these;
 those that have exercises, do them.
 

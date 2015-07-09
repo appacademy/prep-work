@@ -24,10 +24,10 @@ much as you can **before** the course to maximize what you learn
     * **We will mail you assessment00 3 weeks before your cycle
       begins.**
 
-[welcome]: ./welcome.md
-[mailing-signup]: ./mailing-signup.md
-[pre-course-readings]: ./readings.md
-[homework]: ./homework.md
-[extra-resources]: ./extra-resources.md
-[assessment00]: ./assessment00.md
-[typing-practice]: ./typing.md
+[welcome]: ./welcome
+[mailing-signup]: ./mailing-signup
+[pre-course-readings]: ./readings
+[homework]: ./homework
+[extra-resources]: ./extra-resources
+[assessment00]: ./assessment00
+[typing-practice]: ./typing

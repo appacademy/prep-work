@@ -1,5 +1,3 @@
-# Preflight: Assessment00 and Practice Problems
-
 Yay! We're super excited that you'll be arriving soon! We have some
 practice work before you take your first assessment. Read on!
 
@@ -12,7 +10,7 @@ hour, so these are good practice. The practice problems are a little
 harder than those on the assessment, because we want you to over-
 rather than under-prepare :-)
 
-[practice-problems]: ../coding-test-2/practice-problems
+[practice-problems]: ../../coding-test-2/practice-problems
 
 ## Assessment00 Schedule
 

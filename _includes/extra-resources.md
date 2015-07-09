@@ -1,5 +1,3 @@
-# Extra Resources and Readings
-
 The first place to start is Google; a huge part of being a good
 developer is learning how to find answers to things you don't
 know. Many of the best results come from
