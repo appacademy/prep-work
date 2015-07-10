@@ -1,5 +1,3 @@
-# Iteration
-
 ## Goals
 * Know what an index variable is.
   * Know that index variables conventionally start at zero.
@@ -73,7 +71,7 @@ i = 1
 while i <= 5
   puts "Repeat 5 times!"
   puts "This is time #: #{i}"
-  
+
   i += 1
 end
 ```
@@ -134,7 +132,7 @@ numbers_to_search = [1, 5, 7, 42, 8, 42]
 i = 0
 while i < numbers_to_search.count
   current_number = numbers_to_search[i]
-  
+
   if my_favorite_number == current_number
     puts "List contains favorite number!"
     break
@@ -190,7 +188,7 @@ to increment the index variable each time:
 i = 0
 while i < 5
   puts "Do this five times"
-  
+
   # forgot: i += 1
 end
 ```
@@ -209,7 +207,7 @@ For boring reasons, `for` is not recommended for use. You'll see
 plenty of Python code use `for` this way, but satisfy yourself with
 using `#each`
 
-Boring reason: the iterator variable (*i.e.* `item` in the above `for` loop construct 
+Boring reason: the iterator variable (*i.e.* `item` in the above `for` loop construct
 example) is still bound after exiting the loop. This doesn't happen with `each`.
 [See this SO question.](http://stackoverflow.com/questions/3294509/for-vs-each-in-ruby)
 
@@ -229,7 +227,7 @@ while i < numbers.count
   if numbers[i] == my_favorite_number
     favorite_indices << i
   end
-  
+
   i += 1
 end
 ```
@@ -325,7 +323,7 @@ loops that print out a times table:
   (1..10).each do |j|
     multiples << i * j
   end
-  
+
   p multiples
 end
 ```
@@ -362,7 +360,7 @@ Time estimate: 1.5hrs
 * Print out all the factors for each of the numbers 1 through 100.
 * Implement [Bubble sort][wiki-bubble-sort] in a method `#bubble_sort`
   that takes an `Array` and modifies it so that it is in sorted order.
-  [Bubble sort visualization](https://www.youtube.com/watch?v=aXXWXz5rF64). 
+  [Bubble sort visualization](https://www.youtube.com/watch?v=aXXWXz5rF64).
 
 
 > Bubble sort, sometimes incorrectly referred to as sinking sort, is a

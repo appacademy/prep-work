@@ -1,5 +1,3 @@
-# Source files
-
 Code is organized into source files; each file contains a collection
 of related code. When source files start to get long (>300 lines or
 so), it is good practice to split the code up into new files.

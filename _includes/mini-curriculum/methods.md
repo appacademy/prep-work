@@ -1,5 +1,3 @@
-# Methods (Functions)
-
 ## Goals
 
 * Know what [side effects](http://en.wikipedia.org/wiki/Side_effect_(computer_science)) and return values are.
@@ -34,7 +32,7 @@ early return, such as in the following method:
 ```ruby
 def go_home
   return unless can_go_home? && wants_to_go_home?
-  
+
   pack_bags
   get_tickets
   board_plane

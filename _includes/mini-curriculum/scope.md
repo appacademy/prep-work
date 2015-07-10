@@ -1,5 +1,3 @@
-# Scope
-
 [Scope](http://en.wikipedia.org/wiki/Scope_(computer_science) is the context in which a variable name is valid and can be
 used.
 
@@ -16,7 +14,7 @@ def pow(base, exponent)
 
     i += 1
   end
-  
+
   result
 end
 ```
@@ -36,7 +34,7 @@ def extract_cat_age
   # creates a new local variable inside this method; won't add
   # variable to global scope; variable will be lost when method is
   # over
-  
+
   cat_age = cat[:age]
 end
 
@@ -44,7 +42,7 @@ extract_cat_age
 cat_age # ERROR: variable out of scope
 ```
 
-Sometimes things are subtle. 
+Sometimes things are subtle.
 
 ```ruby
 def fourth_power(i)
@@ -65,14 +63,14 @@ fourth_power(2)
 ***NOTE:*** This last bit about global variables is not essential.
 
 While you shouldn't typically create global variables, you can do so with the `$` prefix.
-If you remember the trick to run a special `main()`-ish method in ruby: 
+If you remember the trick to run a special `main()`-ish method in ruby:
 
 ```
 if __FILE__ == $PROGRAM_NAME
   # Put "main" code here
 end
 ```
-Here `$PROGRAM_NAME` is an example of a special global variable which has an ever expansive scope. 
+Here `$PROGRAM_NAME` is an example of a special global variable which has an ever expansive scope.
 '__FILE__' is the name of the file the code lives in.  See [this link][file].
 Even if you're loading in the contents of a library, you'll still have access to the `$`-globals defined within it.
 See [this link][rubyist-global-vars].  

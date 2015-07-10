@@ -1,5 +1,3 @@
-# Writing a Ruby Script
-
 Some Ruby source files contain definitions of classes and methods meant to be
 loaded by other Ruby code (called *library* files), while others are intended
 to be executed as a program (called *script* files).
