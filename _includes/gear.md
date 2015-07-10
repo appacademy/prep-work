@@ -1,5 +1,3 @@
-# Gear Recommendations
-
 These recommendations are predicated on one core principle: your time
 in App Academy is best used learning about how to be the best
 programmer you can be, not futzing with configuration.

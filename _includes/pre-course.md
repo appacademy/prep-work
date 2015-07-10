@@ -23,6 +23,7 @@ much as you can **before** the course to maximize what you learn
 * **[Assessment00][assessment00]**
     * **We will mail you assessment00 3 weeks before your cycle
       begins.**
+* **[Gear Recommendations][gear]**
 
 [welcome]: ./welcome
 [mailing-signup]: ./mailing-signup
@@ -31,3 +32,4 @@ much as you can **before** the course to maximize what you learn
 [extra-resources]: ./extra-resources
 [assessment00]: ./assessment00
 [typing-practice]: ./typing
+[gear]: ./gear
