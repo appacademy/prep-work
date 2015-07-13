@@ -1,5 +1,3 @@
-# Arrays
-
 ## Goals
 
 * Familiarize yourself with the selected, important methods here.
@@ -266,7 +264,7 @@ cool_things = ["race cars", "lasers", "aeroplanes"]
 
 NB: We use *string interpolation* to execute the code inside the `#{}`
 and insert it inside the string. You can see the
-[string tutorial](string.md#interpolation) for more details.
+[string tutorial](../string#interpolation) for more details.
 
 The argument to `join` (`", "` in the example) is called the
 *separator*. It's used to separate the items in the string.

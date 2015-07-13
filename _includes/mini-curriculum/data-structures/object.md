@@ -1,5 +1,3 @@
-# Object
-
 ## Goals
 
 * Know that every class in Ruby is a subclass of `Object`, everything
@@ -191,7 +189,7 @@ class Fraction
     # first, check if we're comparing two fractions, comparing two
     # different types of objects should return false
     return false unless (other.is_a?(Fraction))
-    
+
     (numerator / denominator) == (other.numerator / other.denominator)
   end
 end

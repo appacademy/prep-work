@@ -1,5 +1,3 @@
-# Common Exceptions
-
 There are several exceptions that frequently come up. They can be
 mysterious at first. Exceptions are trying to tell you what went
 wrong, so being able to understand them is important. Here are the
@@ -23,7 +21,7 @@ class NumbersClass
   def loneliest_number
     1
   end
-  
+
   def favorite_number
     3
   end

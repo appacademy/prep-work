@@ -13,13 +13,13 @@
 + [Writing a Ruby Script][writing-a-script]
 + **Project**: In Words (ex #15) from [Test First Ruby][test-first-ruby]
 
-[array]: ./data-structures/array
-[string]: ./data-structures/string
-[hash]: ./data-structures/hash
-[enumerable]: ./data-structures/enumerable
-[object]: ./data-structures/object
-[pry-and-debugger]: ./debugging/debugger
-[common-error-messages]: ./debugging/common-exceptions
+[array]: ./array
+[string]: ./string
+[hash]: ./hash
+[enumerable]: ./enumerable
+[object]: ./object
+[pry-and-debugger]: ./debugger
+[common-error-messages]: ./common-exceptions
 [source-files]: ./source-files
 [writing-a-script]: ./writing-a-script
 [test-first-ruby]: https://github.com/alexch/learn_ruby

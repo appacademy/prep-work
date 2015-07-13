@@ -1,5 +1,3 @@
-# Strings
-
 ## Goals
 
 * Familiarize yourself with the selected, important methods here.

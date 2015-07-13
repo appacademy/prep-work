@@ -1,5 +1,3 @@
-# Debugging
-
 Any program of sufficient complexity is unlikely to work the first
 time. You will make mistakes. Skilled and unskilled developers write a
 similar number of bugs. The difference is that skilled developers are

@@ -1,5 +1,3 @@
-# Enumerable
-
 ## Goals
 
 * Know that any `Enumerable` method can be called on an `Array` or
@@ -26,7 +24,7 @@ the `Enumerable` module.
 ### `each`:
 
 You've already seen this before! If you want a refresher, just look at
-the [Hash](hash.md) and [Array](array.md) pages. You'll want to use
+the [Hash](../hash) and [Array](../array) pages. You'll want to use
 `each` when you want to run some block of code for each element in an
 Array (or Hash).
 
