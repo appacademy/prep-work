@@ -1,14 +1,6 @@
 /**
  * Site header
  */
-.site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
-
-    // Positioning context for the mobile navigation icon
-    position: relative;
-}
 
 .site-title {
     font-size: 26px;
@@ -182,13 +174,4 @@
     @include media-query($on-laptop) {
         font-size: 36px;
     }
-}
-
-img#site-logo {
-  height: auto;
-  width: auto;
-  max-width: 60px;
-  max-height: 60px;
-  float: left;
-  margin: 10px;
 }

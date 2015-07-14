@@ -1,8 +1,9 @@
 title: App Academy Prep-Work
-description: "Prepare for App Academy with this material"
+description: Prepare for App Academy with this material
 baseurl: "/prep-work"
 
 aa-url: http://www.appacademy.io/#p-home
+contact-desc: "Please contact us with any questions or concerns:"
 contact-email: contact@appacademy.io
 
 # Build settings
