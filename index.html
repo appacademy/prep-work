@@ -4,12 +4,20 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Preparatory Materials</h1>
-
-  <ul class="materials-list">
-    {% for section in site.data.sections %}
-      <li><a href="{{ section.url | prepend: site.baseurl }}">{{ section.title }}</a></li>
-    {% endfor %}
-  </ul>
+  <h2 class="site-title">{{ site.description }}</h2>
+  <p>
+    As you get ready for your
+    next step in applying with us, here are some common tips to keep in mind:
+      <ul>
+        <li>
+          Don't be afraid to research anything you don't understand,
+          Google and StackOverflow are your friends!
+        </li>
+        <li>
+          Make sure to prepare thoroughly. There is no deadline to complete the
+          coding challenges
+        </li>
+      </ul>
+  </p>
 
 </div>
