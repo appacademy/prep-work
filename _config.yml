@@ -1,0 +1,15 @@
+title: App Academy Prep-Work
+description: >
+  Use these resources to prepare for App Academy
+baseurl: "/prep-work"
+
+aa-url: http://www.appacademy.io/#p-home
+contact-desc: "Please contact us with any questions or concerns:"
+contact-email: contact@appacademy.io
+
+# Build settings
+markdown: redcarpet
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
