@@ -320,8 +320,8 @@ is like writing
 
 ## Breaking Out of Loops
 
-Let's write some code that finds an item in an array and prints its
-position:
+Let's write some code that asks for the user to write a string, and re-prompt
+them if they're incorrect:
 
 ```ruby
 puts("Please type GIZMO")
