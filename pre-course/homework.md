@@ -73,7 +73,7 @@ build the Twitter clone that the book has you start in Chapter 3 (read
 and follow along with the earlier chapters, too, of course) and finish
 through the rest of the book.
 
-[rails-tutorial]: http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
+[rails-tutorial]: https://www.railstutorial.org/book
 
 ## Event Manager (JumpstartLabs)
 
