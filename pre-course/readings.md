@@ -28,5 +28,5 @@ those that have exercises, do them.
 [ruby-in-100-min]: http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html
 [chris-pine]: http://filepi.com/i/kF0llED
 [ruby-primer]: http://rubymonk.com/learning/books/1
-[hartl]: http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
+[hartl]: https://www.railstutorial.org/book
 [shaw-cli]: http://cli.learncodethehardway.org/book/
