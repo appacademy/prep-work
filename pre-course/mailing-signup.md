@@ -14,6 +14,7 @@ been sent an acceptance letter**.
 * [2015-07-27 (NY)][2015-07-27-ny]
 * [2015-08-24 (SF)][2015-08-24-sf]
 * [2015-09-28 (NY)][2015-09-28-ny]
+* [2015-10-26 (SF)][2015-10-26-sf]
 * [2016-01-04 (SF)][2016-01-04-sf]
 
 [2014-12-08-sf]: https://groups.google.com/forum/?hl=en#!forum/aa-2014-12-08-sf
