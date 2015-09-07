@@ -6,7 +6,7 @@ This minibook is intended to cover everything you need to learn to
 prepare for the coding challenge. In it, we'll learn the basics of the
 Ruby programming language.
 
-Ruby is a wonderful programming languages with lots of functionality.
+Ruby is a wonderful programming language with lots of functionality.
 We'll focus on the small subset that you need for the coding
 challenge.
 
