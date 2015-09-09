@@ -7,41 +7,24 @@
 # Difficulty: hard.
 
 def num_repeats(string)
-  counts = []
-
-  str_idx = 0
-  while str_idx < string.length
-    letter = string[str_idx]
-
-    counts_idx = 0
-    while counts_idx < counts.length
-      if counts[counts_idx][0] == letter
-        counts[counts_idx][1] += 1
-        break
-      end
-      counts_idx += 1
-    end
-
-    if counts_idx == counts.length
-      # didn't find this letter in the counts array; count it for the
-      # first time
-      counts.push([letter, 1])
-    end
-
-    str_idx += 1
-  end
-
-  num_repeats = 0
-  counts_idx = 0
-  while counts_idx < counts.length
-    if counts[counts_idx][1] > 1
-      num_repeats += 1
-    end
-
-    counts_idx += 1
-  end
-
-  return num_repeats
+	used = []
+	accountedFor = []
+	res = i = 0
+	#iterate over string
+	while i < string.length
+		#if char hasn't been accounted for ...
+		#account for it
+		if !accountedFor.include?(string[i])
+			accountedFor.push(string[i])
+		#else if accounted for has it been used?
+		elsif !used.include?(string[i])
+			res += 1
+			used.push(string[i])
+		end
+	i += 1
+	end
+	#return number of duplicate occurances
+	return res
 end
 
 # These are tests to check that your code is working. After writing
