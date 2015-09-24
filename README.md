@@ -1,5 +1,6 @@
 # This repository has a new home!
-The links below will direct you to the correct locations. Please contact us at contact@appacademy.io if you've been directed here. 
+The links below will direct you to the correct locations. Please contact us at contact@appacademy.io
+if you have any questions.
 
 # App Academy Prepwork
 
