@@ -1,8 +1,8 @@
-# THIS REPOSITORY IS NOW DEPRECATED
-Please contact us at contact@appacademy.io if you've been directed here. 
+# This repository has a new home!
+The links below will direct you to the correct locations. Please contact us at contact@appacademy.io if you've been directed here. 
 
 # App Academy Prepwork
 
-* [Coding Exercise I](./coding-test-1/README.md)
-* [Coding Exercise II](./coding-test-2/README.md)
-* [Post-Acceptance Prepwork](./pre-course/README.md)
+* [Coding Exercise I](http://prepwork.appacademy.io/coding-test-1/)
+* [Coding Exercise II](http://prepwork.appacademy.io/coding-test-2/)
+* [Post-Acceptance Prepwork](http://prepwork.appacademy.io/pre-course/)
