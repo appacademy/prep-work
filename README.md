@@ -1,8 +1,7 @@
-# This repository has a new home!
-The links below will direct you to the correct locations. Please contact us at contact@appacademy.io
-if you have any questions.
+### `302 Found`
 
-# App Academy Prepwork
+This repository is no longer active. Can we redirect you to one of the following resources?
 
-* [Coding Exercise I](http://prepwork.appacademy.io/coding-test-1/)
-* [Coding Exercise II](http://prepwork.appacademy.io/coding-test-2/)
+* [Prep for Coding Interview I](http://prepwork.appacademy.io/coding-test-1/)
+* [Prep for Coding Interview II](http://prepwork.appacademy.io/coding-test-2/)
+* [Prep Course for Accepted Students](https://github.com/appacademy/appacademy-prep) (Make sure you're signed in to Github or this link will not work!)
